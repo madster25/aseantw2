@@ -6,7 +6,7 @@ import type { Language } from '../translations';
  * STATUS: no approved chamber photographs have been supplied yet. Three entries (home-lead, reception,
  * singapore) are stock photographs chosen by the chamber (Unsplash). The rest are generated documentary-style
  * scenes of regional places and industry with no identifiable people. None depicts a chamber event, and no
- * caption may say otherwise. `placeholder: true` marks an image that should still be replaced; it renders
+ * caption may say otherwise. Captions and credits are stored here but not displayed on the site. `placeholder: true` marks an image that should still be replaced; it renders
  * nothing on the page. Files live in /public/photos as <slot>.jpg and <slot>-800.jpg; `taipei` is the one
  * slot still loaded from its original URL because the file has not been supplied.
  *
@@ -145,7 +145,7 @@ export const photos: Record<PhotoSlot, Photo> = {
     1344,
     752,
     { en: 'Trade exhibition hall seen from above with rows of booths and aisles', 'zh-tw': '自上方俯瞰的展覽館，成排的攤位與走道' },
-    { en: 'A trade exhibition hall. Chamber delegations visit regional fairs as part of trade missions.', 'zh-tw': '展覽館。商會代表團在考察行程中參觀區域展會。' },
+    { en: 'A trade exhibition hall.', 'zh-tw': '展覽館。' },
     'exhibition',
   ),
   reception: stock(
@@ -169,7 +169,7 @@ export const photos: Record<PhotoSlot, Photo> = {
     1024,
     688,
     { en: 'Seminar room with delegates seen from behind facing a stage', 'zh-tw': '研討會現場，背對鏡頭面向講台的與會者' },
-    { en: 'A seminar in progress. Not a chamber event; shown to illustrate the format.', 'zh-tw': '進行中的研討會。此非商會活動，僅示意形式。' },
+    { en: 'A seminar in progress.', 'zh-tw': '進行中的研討會。' },
     'seminar',
   ),
   'mission-sample': tmp(
@@ -177,7 +177,7 @@ export const photos: Record<PhotoSlot, Photo> = {
     1344,
     752,
     { en: 'Trade exhibition hall seen from above', 'zh-tw': '自上方俯瞰的展覽館' },
-    { en: 'Sample image for the mission layout.', 'zh-tw': '考察團版面示意圖。' },
+    { en: 'A trade exhibition hall.', 'zh-tw': '展覽館。' },
     'mission-sample',
   ),
 };

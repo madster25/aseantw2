@@ -49,10 +49,6 @@ export const HomePage = () => {
               </Link>
             </div>
           </div>
-          <p className="mt-8 border-t border-white/20 pt-4 text-[0.8rem] text-white/60">
-            {lead.caption[lang]}
-            <span className="ml-2">{t.a11y.photoCredit}: {lead.credit}</span>
-          </p>
         </div>
       </section>
 

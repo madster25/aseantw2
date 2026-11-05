@@ -1,5 +1,5 @@
 import { photos, type PhotoSlot } from '../data/photos';
-import { translations, type Language } from '../translations';
+import type { Language } from '../translations';
 
 interface FigureProps {
   slot: PhotoSlot;
@@ -11,11 +11,11 @@ interface FigureProps {
   ratioMobile?: string;
   /** Opening-section images load eagerly; everything else is lazy. */
   priority?: boolean;
-  /** Hide the caption. */
+  /** Kept for call sites; captions are not rendered. */
   bare?: boolean;
   /** Approximate rendered width for srcset selection, as a sizes attribute. */
   sizes?: string;
-  /** Caption placement: below the image, or overlaid on its lower edge (for full-bleed images). */
+  /** Kept for call sites; captions are not rendered. */
   caption?: 'below' | 'overlay';
   /** Enable the slow zoom on hover (used when the figure sits inside a link). */
   zoom?: boolean;
@@ -25,17 +25,11 @@ interface FigureProps {
 }
 
 /**
- * A photograph from the registry with its caption and credit.
+ * A photograph from the registry. Alt text is applied; captions and credits are not shown.
  */
-export const Figure = ({ slot, lang, className = '', ratio, priority = false, bare = false, sizes = '100vw', caption = 'below', zoom = false, reveal = false, revealDelay, ratioMobile }: FigureProps) => {
+export const Figure = ({ slot, lang, className = '', ratio, priority = false, sizes = '100vw', zoom = false, reveal = false, revealDelay, ratioMobile }: FigureProps) => {
   const photo = photos[slot];
-  const t = translations[lang].a11y;
   const srcSet = photo.srcSmall ? `${photo.srcSmall} 800w, ${photo.src} ${photo.width}w` : undefined;
-  const captionText = (
-    <>
-      {photo.caption[lang]}
-    </>
-  );
   return (
     <figure className={`relative ${className}`} data-reveal={reveal ? '' : undefined} data-reveal-delay={reveal ? revealDelay : undefined}>
       <div
@@ -60,19 +54,7 @@ export const Figure = ({ slot, lang, className = '', ratio, priority = false, ba
           decoding={priority ? 'sync' : 'async'}
           className={`block w-full ${ratio ? 'h-full object-cover' : 'h-auto'}`}
         />
-        {!bare && caption === 'overlay' && (
-          <figcaption className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-ink/70 to-transparent px-4 pt-10 pb-3 text-[0.8rem] text-white/90 sm:px-6">
-            {captionText}
-            <span className="block text-white/60">{t.photoCredit}: {photo.credit}</span>
-          </figcaption>
-        )}
       </div>
-      {!bare && caption === 'below' && (
-        <figcaption className="mt-3 flex flex-col gap-0.5 text-[0.82rem] leading-relaxed text-ink-mute">
-          <span className="text-ink-soft">{captionText}</span>
-          <span>{t.photoCredit}: {photo.credit}</span>
-        </figcaption>
-      )}
     </figure>
   );
 };
