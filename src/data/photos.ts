@@ -1,0 +1,152 @@
+import type { Language } from '../translations';
+
+/**
+ * Photography registry.
+ *
+ * STATUS: every entry below is a TEMPORARY asset. No approved chamber photographs have been supplied.
+ * The temporary images were generated on 2026-11-04 as documentary-style scenes of regional places and
+ * industry; they show no identifiable people and depict no chamber event. Each is flagged
+ * `temporary: true`, which renders a visible "Temporary image" badge and a caption saying so.
+ *
+ * TO REPLACE AN IMAGE
+ *   1. Put the approved file in /public/photos/ (JPEG or WebP, 1600px on the long side; a 800px copy
+ *      for `srcSmall` keeps phone downloads small).
+ *   2. Change `src` (and `srcSmall`) to '/photos/<file>', set width/height to the file's pixel size,
+ *      write alt text and a caption that says what, where and when, add the photographer credit,
+ *      and set `temporary: false`.
+ *   3. Nothing else changes: every page reads from this file.
+ *
+ * NEVER describe a temporary image as a chamber event, or imply that pictured people are members.
+ */
+export type PhotoSlot =
+  | 'home-lead'
+  | 'taipei'
+  | 'singapore'
+  | 'ho-chi-minh'
+  | 'bangkok'
+  | 'kuala-lumpur'
+  | 'jakarta'
+  | 'factory'
+  | 'exhibition'
+  | 'reception'
+  | 'port-vertical'
+  | 'seminar'
+  | 'mission-sample';
+
+export interface Photo {
+  src: string;
+  /** Smaller rendition for phones; optional. */
+  srcSmall?: string;
+  width: number;
+  height: number;
+  alt: Record<Language, string>;
+  caption: Record<Language, string>;
+  credit: string;
+  temporary: boolean;
+}
+
+const CDN = 'https://d8j0ntlcm91z4.cloudfront.net/user_3Kcig8MTgncU7AXxhtgFJTcZLe4/';
+const tmp = (file: string, width: number, height: number, alt: Record<Language, string>, caption: Record<Language, string>): Photo => ({
+  src: `${CDN}${file}.png`,
+  srcSmall: `${CDN}${file}_min.webp`,
+  width,
+  height,
+  alt,
+  caption,
+  credit: 'Temporary generated image',
+  temporary: true,
+});
+
+export const photos: Record<PhotoSlot, Photo> = {
+  'home-lead': tmp(
+    'hf_20261104_084839_3d402f35-8cb8-4baa-b0dd-6b739c4bfa7a',
+    1344,
+    752,
+    { en: 'Container port at dusk with gantry cranes and stacked containers', 'zh-tw': '黃昏時分的貨櫃港，橋式起重機與堆疊的貨櫃' },
+    { en: 'A container port of the kind that links Taiwan with Southeast Asian supply chains.', 'zh-tw': '連結台灣與東南亞供應鏈的貨櫃港。' },
+  ),
+  taipei: tmp(
+    'hf_20261104_084838_96050c6a-601f-407c-a111-26ddb7a8c6a6',
+    1024,
+    688,
+    { en: 'Taipei skyline on a clear morning seen from a hillside', 'zh-tw': '晴朗早晨自山坡眺望的台北市景' },
+    { en: 'Taipei, where the chamber is based.', 'zh-tw': '台北，商會所在地。' },
+  ),
+  singapore: tmp(
+    'hf_20261104_084931_941e996c-e363-4c4f-9b35-5c4faadf865b',
+    1024,
+    688,
+    { en: 'Glass office towers of a financial district beside the water', 'zh-tw': '水岸旁金融區的玻璃帷幕辦公大樓' },
+    { en: 'Singapore’s financial district, a common seat for regional holding companies and arbitration.', 'zh-tw': '新加坡金融區，區域控股公司與仲裁的常見所在地。' },
+  ),
+  'ho-chi-minh': tmp(
+    'hf_20261104_084837_e30d6b67-70cf-4b58-a6e1-2ef5d0d660d5',
+    1024,
+    688,
+    { en: 'Motorbikes in motion on a wide city boulevard with office towers behind', 'zh-tw': '寬闊大道上行駛的機車，後方為辦公大樓' },
+    { en: 'Ho Chi Minh City. Vietnam is among the most frequent destinations for Taiwanese manufacturers.', 'zh-tw': '胡志明市。越南是台灣製造業最常見的目的地之一。' },
+  ),
+  bangkok: tmp(
+    'hf_20261104_084837_468f709f-2730-4638-99ef-4e6be8f14bba',
+    1024,
+    688,
+    { en: 'City skyline along a river at golden hour', 'zh-tw': '黃昏時分河畔的城市天際線' },
+    { en: 'Bangkok, on the Chao Phraya.', 'zh-tw': '湄南河畔的曼谷。' },
+  ),
+  'kuala-lumpur': tmp(
+    'hf_20261104_084839_12f238b1-5da1-451e-9e30-6af12f2589ad',
+    688,
+    1024,
+    { en: 'Looking up at twin office towers between other buildings', 'zh-tw': '仰望大樓之間的雙塔' },
+    { en: 'Kuala Lumpur.', 'zh-tw': '吉隆坡。' },
+  ),
+  jakarta: tmp(
+    'hf_20261104_084930_21e02190-9283-47a6-8d04-95048e3c5c3e',
+    1024,
+    688,
+    { en: 'Central business district with towers and elevated roads in morning haze', 'zh-tw': '晨霧中的中央商業區，高樓與高架道路' },
+    { en: 'Jakarta’s business district.', 'zh-tw': '雅加達商業區。' },
+  ),
+  factory: tmp(
+    'hf_20261104_084838_0d645173-5172-4c35-b284-1880876f9292',
+    1024,
+    688,
+    { en: 'Surface-mount assembly machines and printed circuit boards on an electronics line', 'zh-tw': '電子生產線上的表面黏著設備與印刷電路板' },
+    { en: 'Electronics assembly, the sector most represented in Taiwan–ASEAN manufacturing investment.', 'zh-tw': '電子組裝，台灣對東協製造投資中最具代表性的產業。' },
+  ),
+  exhibition: tmp(
+    'hf_20261104_084837_cf7541d3-6148-4dae-8c81-efef8d95f310',
+    1344,
+    752,
+    { en: 'Trade exhibition hall seen from above with rows of booths and aisles', 'zh-tw': '自上方俯瞰的展覽館，成排的攤位與走道' },
+    { en: 'A trade exhibition hall. Chamber delegations visit regional fairs as part of trade missions.', 'zh-tw': '展覽館。商會代表團在考察行程中參觀區域展會。' },
+  ),
+  reception: tmp(
+    'hf_20261104_084931_c43b03ea-1ed0-433e-a131-c1cc098152b6',
+    1024,
+    688,
+    { en: 'Hotel function room with small groups of people seen from behind', 'zh-tw': '飯店宴會廳，背對鏡頭的小群人士' },
+    { en: 'A business reception. This is not a chamber event and the people shown are not members.', 'zh-tw': '商務酒會。此非商會活動，圖中人物亦非會員。' },
+  ),
+  'port-vertical': tmp(
+    'hf_20261104_084838_fda7ea5f-f3a1-472a-a93d-68a723457a18',
+    688,
+    1024,
+    { en: 'Container ship being loaded under cranes in early morning light', 'zh-tw': '清晨光線下起重機裝載中的貨櫃船' },
+    { en: 'Loading at a Southeast Asian port.', 'zh-tw': '東南亞港口的裝載作業。' },
+  ),
+  seminar: tmp(
+    'hf_20261104_084930_67ca27ca-bf8c-4684-b383-9c3ddb5fdc44',
+    1024,
+    688,
+    { en: 'Seminar room with delegates seen from behind facing a stage', 'zh-tw': '研討會現場，背對鏡頭面向講台的與會者' },
+    { en: 'A seminar in progress. Not a chamber event; shown to illustrate the format.', 'zh-tw': '進行中的研討會。此非商會活動，僅示意形式。' },
+  ),
+  'mission-sample': tmp(
+    'hf_20261104_084837_cf7541d3-6148-4dae-8c81-efef8d95f310',
+    1344,
+    752,
+    { en: 'Trade exhibition hall seen from above', 'zh-tw': '自上方俯瞰的展覽館' },
+    { en: 'Sample image for the mission layout.', 'zh-tw': '考察團版面示意圖。' },
+  ),
+};

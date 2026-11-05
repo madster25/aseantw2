@@ -1,0 +1,26 @@
+{
+  "slug": "maritime-freight-logistics-asean",
+  "category": "Trade and logistics",
+  "countries": ["SG", "MY"],
+  "preparedAt": "2026-10-31",
+  "readingMinutes": 2,
+  "en": {
+    "title": "ASEAN maritime freight: transshipment hubs and logistics planning",
+    "standfirst": "How maritime freight moves into ASEAN. Understand transshipment through Singapore and Port Klang and plan for the border process at the destination.",
+    "metaDescription": "Plan maritime freight into ASEAN. Understand transshipment through the Singapore and Port Klang hubs and prepare for customs processing at the destination.",
+    "body": "Planning **ASEAN maritime freight** involves understanding both the shipping route and the border process.\n\nThe **Singapore transshipment hub** and **Port Klang logistics** networks connect major shipping services with regional destinations. Customs arrangements at origin and destination also affect how cargo is treated once it arrives.\n\nThese arrangements serve different purposes: shipping connectivity determines how cargo travels, while customs processes affect its treatment at relevant borders.\n\n## The transshipment reality\n\nA shipment between the port of origin and an ASEAN destination may travel through an intermediate hub rather than on a direct service.\n\nDuring transshipment, cargo is transferred between vessels. A main shipping service may deliver containers to a hub, where a feeder service carries them onward to the destination port.\n\nWhen reviewing a freight proposal, identify the complete route, including any transfer and onward service. The sailing date from the port of origin is only one part of the delivery timetable.\n\nAllow for the possibility of connection delays and destination processing when planning stock availability.\n\n## Mega-hubs: Singapore and Port Klang\n\nSingapore and Port Klang are important regional routing options identified in this guide.\n\nSingapore's role as a container transshipment hub is supported by its extensive shipping connections. The Maritime and Port Authority describes connectivity as central to the port's hub function. [MPA Singapore: Global connectivity](https://www.mpa.gov.sg/maritime-singapore/what-maritime-singapore-offers/global-hub-port)\n\nFor either routing option, ask the freight forwarder to explain the onward feeder connection and expected handling sequence.\n\nSelect the route against your actual destination and service requirements. A major hub's connectivity does not guarantee a particular shipment will arrive by a fixed date.\n\n## Customs processing at the destination\n\nShipping connectivity and customs treatment are separate matters. Confirm the destination's documentation, duty and inspection requirements with the freight forwarder and the importer before the vessel sails.\n\nSome customs administrations operate trusted-trader or similar accreditation programmes for businesses with secure supply chains and strong trade compliance, and some recognise each other's programmes. Where your business holds such an accreditation, check whether the destination recognises it and what the implementation requirements are. Do not assume reciprocal benefits operate uniformly throughout ASEAN.\n\nAccreditation of this kind does not provide a blanket exemption from border intervention or replace quarantine and biosecurity requirements.\n\nMake the freight forwarder and relevant logistics partners aware of any accreditation so they can confirm how it should be identified in the shipment process."
+  },
+  "zh": {
+    "title": "東協海運貨運：轉運樞紐與物流規劃",
+    "standfirst": "了解海運貨物如何進入東協。認識經由新加坡及巴生港的轉運模式，並為目的地的邊境程序做好規劃。",
+    "metaDescription": "規劃進入東協的海運貨運。認識經由新加坡及巴生港樞紐的轉運模式，並為目的地港口的海關程序做好準備。",
+    "body": "規劃**東協海運貨運**，需要同時了解航運路線與邊境程序。\n\n**新加坡轉運樞紐**及**巴生港（Port Klang）物流**網絡將主要航運服務與區域各目的地相連接。起運地與目的地的海關安排，亦會影響貨物抵達後的處理方式。\n\n這些安排各有不同目的：航運連結決定貨物如何運送，海關程序則影響貨物在相關邊境的處理。\n\n## 轉運的實際情況\n\n從起運港到東協目的地的貨物，可能經由中途樞紐轉運，而非直達航線。\n\n轉運期間，貨物會在船舶之間轉移。主要航運服務可能先將貨櫃運至樞紐，再由支線服務轉運至目的港。\n\n檢視貨運方案時，請確認完整路線，包括任何轉運及後續航段。從起運港的開航日期只是整體交貨時程的一部分。\n\n規劃庫存供應時，請預留轉運銜接延誤及目的地處理所需的時間。\n\n## 大型樞紐：新加坡與巴生港\n\n新加坡與巴生港是本指南所列的重要區域轉運選項。\n\n新加坡作為貨櫃轉運樞紐的地位，有賴其廣泛的航運連結。新加坡海事及港務管理局（Maritime and Port Authority）指出，連結性是該港樞紐功能的核心。[MPA新加坡：全球連結](https://www.mpa.gov.sg/maritime-singapore/what-maritime-singapore-offers/global-hub-port)\n\n無論選擇哪一個轉運方案，請要求貨運承攬業者說明後續支線銜接及預期的處理順序。\n\n請依實際目的地及服務需求選擇路線。大型樞紐的連結性並不保證特定貨物會在固定日期抵達。\n\n## 目的地的海關程序\n\n航運連結與海關處理是兩回事。在船舶開航前，請與貨運承攬業者及進口商確認目的地的文件、關稅及查驗要求。\n\n部分海關機關為供應鏈安全且貿易合規良好的企業設有信賴貿易商或類似的認證計畫，部分機關之間亦相互承認對方的計畫。若您的企業持有此類認證，請確認目的地是否承認，以及相關的實施要求。不要假設互惠待遇在整個東協一致適用。\n\n此類認證並不提供免除邊境查驗的概括性豁免，也不能取代檢疫與生物安全要求。\n\n請讓貨運承攬業者及相關物流夥伴知悉任何認證，以便他們確認在出貨程序中應如何標示。"
+  },
+  "sources": [
+    {
+      "title": "MPA Singapore: Global connectivity",
+      "url": "https://www.mpa.gov.sg/maritime-singapore/what-maritime-singapore-offers/global-hub-port",
+      "retrievedAt": "2026-10-31"
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+/*
+  Design system.
+
+  Type     English   Archivo (variable). Headlines at medium weight and normal width, tight leading, slightly
+                     negative tracking; body at regular weight with a generous measure.
+           Chinese   Noto Sans TC 400 / 500 / 700, loaded only on /zh-tw. Latin characters inside Chinese text stay
+                     in Archivo so mixed text is consistent.
+           Serif     Newsreader, used only for the long-form body of English guides.
+  Colour   white #FFFFFF, charcoal #242424, brick red #A33A32, grey #E7E7E3. Brick is reserved for actions, the
+           active state, numbering and labels. The logo has its own colours (see --logo-*) and is not part of this
+           palette.
+  Motion   Short colour and transform transitions, a single reveal-on-scroll fade, and a slow image zoom on hover.
+           Everything is disabled under prefers-reduced-motion.
+*/
+@import "@fontsource-variable/archivo/wdth.css";
+@import "@fontsource-variable/newsreader/opsz.css";
+@import "tailwindcss";
+
+/* 6-character subset of Noto Sans TC Bold for the chamber's Chinese name, which appears on every page. */
+@font-face {
+  font-family: "Noto Sans TC";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./fonts/noto-sans-tc-wordmark-700.woff2") format("woff2");
+  unicode-range: U+6771, U+5354, U+53F0, U+7063, U+5546, U+6703;
+}
+
+@theme {
+  --font-sans: "Archivo Variable", "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Newsreader Variable", Georgia, "Times New Roman", serif;
+
+  --color-white: #ffffff;
+  --color-ink: #242424;
+  --color-ink-soft: #444444;
+  --color-ink-mute: #5c5c5c;
+  --color-wash: #e7e7e3;
+  --color-wash-soft: #f3f3f0;
+  --color-hair: #d4d4cf;
+  --color-brick: #a33a32;
+  --color-brick-deep: #862e28;
+  --color-ok: #1f6b3a;
+
+  --container-max: 88rem;
+  --header-h: 4.5rem;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+:root {
+  /*
+    Logo colours, taken from the original site's wordmark. No official logo file has been supplied.
+    Do not change these without the chamber's approval.
+  */
+  --logo-navy: #002147;
+  --logo-gold: #c5a059;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: calc(var(--header-h) + 1.5rem);
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-white text-ink font-sans antialiased;
+    font-size: 1.0625rem;
+    line-height: 1.65;
+    font-stretch: 100%;
+    font-kerning: normal;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1, h2, h3, h4 {
+    @apply text-ink;
+    font-weight: 600;
+    font-stretch: 100%;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+  }
+  p { text-wrap: pretty; }
+  img { display: block; }
+
+  :focus-visible {
+    outline: 2px solid var(--color-ink);
+    outline-offset: 4px;
+  }
+  ::selection { background: var(--color-brick); color: #fff; }
+
+  /* Traditional Chinese typesetting */
+  :lang(zh-TW) body {
+    line-height: 1.9;
+    letter-spacing: 0.015em;
+  }
+  :lang(zh-TW) h1, :lang(zh-TW) h2, :lang(zh-TW) h3, :lang(zh-TW) h4, :lang(zh-TW) .display {
+    line-height: 1.35;
+    letter-spacing: 0.01em;
+    font-weight: 700;
+    font-stretch: 100%;
+  }
+  :lang(zh-TW) p, :lang(zh-TW) li, :lang(zh-TW) dd, :lang(zh-TW) dt {
+    line-break: strict;
+    overflow-wrap: anywhere;
+    text-spacing-trim: trim-start;
+  }
+  :lang(zh-TW) .display, :lang(zh-TW) .title-page {
+    text-wrap: balance;
+    line-break: strict;
+    overflow-wrap: anywhere;
+  }
+  [lang="zh-TW"] { font-stretch: 100%; }
+
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
+    [data-reveal] { opacity: 1 !important; transform: none !important; }
+  }
+}
+
+/* ---------- Layout ---------- */
+@utility container-page {
+  width: 100%;
+  max-width: var(--container-max);
+  margin-inline: auto;
+  padding-inline: 1.25rem;
+  @media (min-width: 40rem) { padding-inline: 2.5rem; }
+  @media (min-width: 80rem) { padding-inline: 4rem; }
+}
+@utility container-text {
+  width: 100%;
+  max-width: 72rem;
+  margin-inline: auto;
+  padding-inline: 1.25rem;
+  @media (min-width: 40rem) { padding-inline: 2.5rem; }
+  @media (min-width: 80rem) { padding-inline: 4rem; }
+}
+@utility section-pad {
+  padding-block: 4rem;
+  @media (min-width: 48rem) { padding-block: 6rem; }
+  @media (min-width: 80rem) { padding-block: 7.5rem; }
+}
+@utility section-pad-sm {
+  padding-block: 3rem;
+  @media (min-width: 48rem) { padding-block: 4.5rem; }
+}
+@utility measure { max-width: 64ch; :lang(zh-TW) & { max-width: 38em; } }
+@utility measure-narrow { max-width: 46ch; :lang(zh-TW) & { max-width: 28em; } }
+
+@utility rule-top { border-top: 1px solid var(--color-ink); }
+@utility rule-top-thin { border-top: 1px solid var(--color-hair); }
+
+/* ---------- Type scale ---------- */
+@utility display {
+  font-size: clamp(2.5rem, 6vw, 5.25rem);
+  font-weight: 600;
+  line-height: 1.02;
+  letter-spacing: -0.03em;
+  :lang(zh-TW) & { font-size: clamp(2.2rem, 5vw, 4.25rem); font-weight: 700; line-height: 1.25; letter-spacing: 0; }
+}
+@utility title-page {
+  font-size: clamp(2.25rem, 4.8vw, 4rem);
+  font-weight: 600;
+  line-height: 1.05;
+  letter-spacing: -0.028em;
+  :lang(zh-TW) & { font-size: clamp(2rem, 4vw, 3.4rem); font-weight: 700; line-height: 1.25; letter-spacing: 0; }
+}
+@utility title-section {
+  font-size: clamp(1.75rem, 3vw, 2.6rem);
+  font-weight: 600;
+  line-height: 1.12;
+  letter-spacing: -0.024em;
+  :lang(zh-TW) & { font-size: clamp(1.6rem, 2.6vw, 2.2rem); font-weight: 700; line-height: 1.35; letter-spacing: 0; }
+}
+@utility title-item {
+  font-size: 1.35rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.015em;
+  :lang(zh-TW) & { font-weight: 700; line-height: 1.4; letter-spacing: 0; }
+}
+@utility lede {
+  font-size: clamp(1.15rem, 1.5vw, 1.4rem);
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.005em;
+  color: var(--color-ink-soft);
+  :lang(zh-TW) & { line-height: 1.85; letter-spacing: 0.01em; }
+}
+/* Small tracked label */
+@utility label {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-brick);
+  :lang(zh-TW) & { font-size: 0.8rem; letter-spacing: 0.2em; }
+}
+@utility numeral {
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+  line-height: 0.9;
+  letter-spacing: -0.03em;
+  color: var(--color-brick);
+}
+
+/* ---------- Controls ---------- */
+@utility btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  min-height: 3rem;
+  padding: 0.7rem 1.5rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.01em;
+  line-height: 1.2;
+  border: 1px solid transparent;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 180ms var(--ease-out), color 180ms var(--ease-out), border-color 180ms var(--ease-out), transform 180ms var(--ease-out);
+  &:hover { transform: translateY(-1px); }
+  &:active { transform: translateY(0); }
+}
+@utility btn-brick {
+  background: var(--color-brick);
+  color: #fff;
+  border-color: var(--color-brick);
+  &:hover { background: var(--color-brick-deep); border-color: var(--color-brick-deep); }
+}
+@utility btn-ink {
+  background: var(--color-ink);
+  color: #fff;
+  border-color: var(--color-ink);
+  &:hover { background: #000; border-color: #000; }
+}
+@utility btn-line {
+  background: transparent;
+  color: var(--color-ink);
+  border-color: var(--color-ink);
+  &:hover { background: var(--color-ink); color: #fff; }
+}
+@utility btn-light {
+  background: #fff;
+  color: var(--color-ink);
+  border-color: #fff;
+  &:hover { background: var(--color-wash); border-color: var(--color-wash); }
+}
+
+/* Inline text link */
+@utility link {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--color-brick);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.22em;
+  padding-block: 0.3rem;
+  transition: color 160ms var(--ease-out), text-decoration-color 160ms var(--ease-out);
+  &:hover { color: var(--color-brick); }
+}
+/* "More" link: medium weight with an animated rule */
+@utility more {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 2.75rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.01em;
+  color: var(--color-ink);
+  text-decoration: none;
+  transition: color 160ms var(--ease-out);
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0.45rem;
+    height: 1px;
+    background: var(--color-brick);
+    transform-origin: left;
+    transition: transform 320ms var(--ease-out);
+  }
+  &:hover { color: var(--color-brick); }
+  &:hover::after { transform: scaleX(0.35); }
+}
+
+@utility field {
+  width: 100%;
+  background: #fff;
+  border: 1px solid var(--color-hair);
+  color: var(--color-ink);
+  padding: 0.85rem 1rem;
+  font: inherit;
+  line-height: 1.4;
+  border-radius: 0;
+  transition: border-color 160ms var(--ease-out);
+  &::placeholder { color: var(--color-ink-mute); }
+  &:hover { border-color: var(--color-ink-mute); }
+  &:focus { border-color: var(--color-ink); outline: none; }
+  &[aria-invalid="true"] { border-color: var(--color-brick); }
+}
+
+/* ---------- Motion ---------- */
+/* Reveal on scroll: elements marked data-reveal fade and rise once as they enter the viewport. */
+[data-reveal] {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity 700ms var(--ease-out), transform 700ms var(--ease-out);
+}
+[data-reveal="in"] { opacity: 1; transform: none; }
+[data-reveal][data-reveal-delay="1"] { transition-delay: 90ms; }
+[data-reveal][data-reveal-delay="2"] { transition-delay: 180ms; }
+[data-reveal][data-reveal-delay="3"] { transition-delay: 270ms; }
+
+/* Image zoom on hover inside any .zoom container */
+@utility zoom {
+  overflow: hidden;
+  & img { transition: transform 900ms var(--ease-out); }
+  &:hover img { transform: scale(1.035); }
+}
+
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -100%;
+  z-index: 100;
+  background: var(--color-ink);
+  color: #fff;
+  padding: 0.75rem 1rem;
+  font-weight: 600;
+}
+.skip-link:focus { top: 1rem; }
+
+/* Square list bullet in brick */
+.bullets { list-style: none; padding: 0; }
+.bullets > li { position: relative; padding-left: 1.1rem; }
+.bullets > li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.68em;
+  width: 0.3rem;
+  height: 0.3rem;
+  background: var(--color-brick);
+}
+
+/* FAQ disclosure */
+details.faq > summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  align-items: baseline;
+  transition: color 160ms var(--ease-out);
+}
+details.faq > summary:hover { color: var(--color-brick); }
+details.faq > summary::-webkit-details-marker { display: none; }
+details.faq > summary::after {
+  content: "+";
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 1;
+  color: var(--color-brick);
+  flex-shrink: 0;
+  transition: transform 240ms var(--ease-out);
+}
+details.faq[open] > summary::after { content: "\2212"; }
+
+/* Guide long-form reading. Serif is used only here, for English. */
+.guide-body { font-size: 1.0625rem; }
+.guide-body p, .guide-body li { color: var(--color-ink); }
+html[lang="en"] .guide-body { font-family: var(--font-serif); font-size: 1.25rem; line-height: 1.6; }
+html[lang="en"] .guide-body h2, html[lang="en"] .guide-body h3, html[lang="en"] .guide-body table { font-family: var(--font-sans); }
+.measure-prose { max-width: 66ch; }
+:lang(zh-TW) .measure-prose { max-width: 36em; }

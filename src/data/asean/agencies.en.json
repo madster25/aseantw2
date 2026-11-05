@@ -1,0 +1,3840 @@
+[
+ {
+  "id": "agy-bn-bedb",
+  "slug": "bn-bedb",
+  "name": "Brunei Economic Development Board",
+  "acronym": "BEDB",
+  "country": "BN",
+  "level": "national",
+  "categories": [
+   "foreign_investment",
+   "industry_development",
+   "trade_export"
+  ],
+  "responsibilities": "BEDB attracts and facilitates investment and supports enterprise development. It provides business support, industrial space information and market access resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.bedb.gov.bn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-bn-bedb-bandar-seri-begawan",
+    "name": "Brunei Economic Development Board, Bandar Seri Begawan",
+    "city": "Bandar Seri Begawan",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Published contact number",
+      "value": "+6732230111"
+     },
+     {
+      "channel": "email",
+      "label": "General enquiries",
+      "value": "info@bedb.gov.bn"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-bn-meti",
+  "slug": "bn-meti",
+  "name": "Ministry of Economy, Trade and Industry",
+  "acronym": "METI",
+  "country": "BN",
+  "level": "national",
+  "categories": [
+   "trade_export",
+   "industry_development"
+  ],
+  "responsibilities": "The ministry supports economic growth and trade and industry development. Its structure includes trade facilitation and market access and links industry, investment and primary resource agencies.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.meti.gov.bn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-bn-standards-accreditation",
+  "slug": "bn-psabd",
+  "name": "Pusat Standard dan Akreditasi Brunei Darussalam",
+  "acronym": "PSABD",
+  "country": "BN",
+  "level": "national",
+  "categories": [
+   "standards"
+  ],
+  "responsibilities": "The centre supports standards and accreditation work in Brunei Darussalam. The ministry publishes information about its laboratory assessor development activities.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.psabd.gov.bn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-bn-rocbn",
+  "slug": "bn-rocbn",
+  "name": "Registry of Companies and Business Names",
+  "acronym": "ROCBN",
+  "country": "BN",
+  "level": "national",
+  "categories": [
+   "business_registration"
+  ],
+  "responsibilities": "The registry provides company incorporation and business name registration. Businesses can use the One Common Portal to submit registration applications and supporting documents.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://ocp.mofe.gov.bn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": [
+   {
+    "name": "One Common Portal business registration",
+    "description": "Official government referral for online company incorporation and business registration.",
+    "url": "https://www.ocp.mofe.gov.bn/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-bn-customs",
+  "slug": "bn-royal-customs-and-excise-department",
+  "name": "Royal Customs and Excise Department",
+  "acronym": null,
+  "country": "BN",
+  "level": "national",
+  "categories": [
+   "customs"
+  ],
+  "responsibilities": "The department provides customs information for imports and exports. Its official pages link tariff guidance, customs procedures and the national single window.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.mof.gov.bn/rced_contact-us/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-bn-customs-berakas",
+    "name": "Royal Customs and Excise Department, Berakas",
+    "city": "Berakas",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "General enquiries",
+      "value": "+6732382333"
+     },
+     {
+      "channel": "phone",
+      "label": "Customer services counter",
+      "value": "+6738323741"
+     },
+     {
+      "channel": "phone",
+      "label": "Enforcement",
+      "value": "+6738714422"
+     },
+     {
+      "channel": "email",
+      "label": "General enquiries",
+      "value": "info@customs.gov.bn"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "Brunei Darussalam National Single Window",
+    "description": "Official national single window referral published on the ministry website.",
+    "url": "https://login.bdnsw.gov.bn/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-bn-revenue",
+  "slug": "bn-revenue-division-ministry-of-finance",
+  "name": "Revenue Division, Ministry of Finance",
+  "acronym": null,
+  "country": "BN",
+  "level": "national",
+  "categories": [
+   "tax"
+  ],
+  "responsibilities": "The division provides tax information and taxpayer services. The ministry publishes resources on income tax, withholding tax, stamp duty and international taxation.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.mof.gov.bn/div_revenue_contactus/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-bn-revenue-bandar-seri-begawan",
+    "name": "Revenue Division, Ministry of Finance, Bandar Seri Begawan",
+    "city": "Bandar Seri Begawan",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Revenue enquiries",
+      "value": "+6737471436"
+     },
+     {
+      "channel": "email",
+      "label": "Revenue enquiries",
+      "value": "revenue@mof.gov.bn"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-bn-bdfa",
+  "slug": "bn-bdfa",
+  "name": "Brunei Darussalam Food Authority",
+  "acronym": "BDFA",
+  "country": "BN",
+  "level": "national",
+  "categories": [
+   "food_biosecurity"
+  ],
+  "responsibilities": "The authority provides food import and export information and food business services. Its website publishes licensing, food handler training and food safety resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://bdfa.gov.bn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-bn-bdfa-bandar-seri-begawan",
+    "name": "Brunei Darussalam Food Authority, Bandar Seri Begawan",
+    "city": "Bandar Seri Begawan",
+    "hours": "Monday to Friday 08:00 to 17:00",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Direct enquiries",
+      "value": "+6732572121"
+     },
+     {
+      "channel": "email",
+      "label": "General enquiries",
+      "value": "info@bdfa.gov.bn"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-bn-bruipo",
+  "slug": "bn-bruipo",
+  "name": "Brunei Intellectual Property Office",
+  "acronym": "BruIPO",
+  "country": "BN",
+  "level": "national",
+  "categories": [
+   "intellectual_property"
+  ],
+  "responsibilities": "BruIPO registers and administers trademarks, patents, industrial designs and plant varieties. It also provides guidance on copyright and intellectual property enforcement.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.bruipo.gov.bn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-bn-bruipo-bandar-seri-begawan",
+    "name": "Brunei Intellectual Property Office, Bandar Seri Begawan",
+    "city": "Bandar Seri Begawan",
+    "hours": "Monday to Thursday and Saturday 07:45 to 12:15 Monday to Thursday and Saturday 13:30 to 16:30",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "General enquiries",
+      "value": "+6732225919"
+     },
+     {
+      "channel": "email",
+      "label": "General enquiries",
+      "value": "enquiries@bruipo.gov.bn"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-bn-education",
+  "slug": "bn-ministry-of-education",
+  "name": "Ministry of Education",
+  "acronym": null,
+  "country": "BN",
+  "level": "national",
+  "categories": [
+   "education"
+  ],
+  "responsibilities": "The ministry oversees school and higher education functions. Its structure includes curriculum, examinations, private education, higher education and education accreditation units.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.moe.gov.bn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-bn-immigration",
+  "slug": "bn-immigration-and-national-registration-department",
+  "name": "Immigration and National Registration Department",
+  "acronym": null,
+  "country": "BN",
+  "level": "national",
+  "categories": [
+   "immigration"
+  ],
+  "responsibilities": "The department handles immigration and national registration matters. The government business guide directs foreign worker visa and work pass applications to it.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.immigration.gov.bn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-bn-manpower-employment",
+  "slug": "bn-department-of-manpower-and-employment",
+  "name": "Department of Manpower and Employment",
+  "acronym": null,
+  "country": "BN",
+  "level": "national",
+  "categories": [
+   "employment"
+  ],
+  "responsibilities": "The department is the government employment contact listed under Home Affairs. The government business guide refers employers to the labour department for foreign worker licensing.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.labour.gov.bn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-bn-judiciary",
+  "slug": "bn-judiciary-of-brunei-darussalam",
+  "name": "Judiciary of Brunei Darussalam",
+  "acronym": null,
+  "country": "BN",
+  "level": "national",
+  "categories": [
+   "dispute_resolution"
+  ],
+  "responsibilities": "The judiciary provides court services for resolving disputes. The official business portal refers users to its small claims, commercial court and electronic filing information.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.judiciary.gov.bn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-bn-tourism",
+  "slug": "bn-tourism-development-department",
+  "name": "Tourism Development Department",
+  "acronym": null,
+  "country": "BN",
+  "level": "national",
+  "categories": [
+   "tourism"
+  ],
+  "responsibilities": "The department is the tourism development agency listed by the ministry. The ministry publishes its official website as the route for tourism information.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.tourism.gov.bn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-id-immigration",
+  "slug": "id-direktorat-jenderal-imigrasi",
+  "name": "Direktorat Jenderal Imigrasi",
+  "acronym": null,
+  "country": "ID",
+  "level": "national",
+  "categories": [
+   "immigration"
+  ],
+  "responsibilities": "The directorate provides visa application and stay permit services. Its official eVisa manual explains account creation, application submission and electronic visa access.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.imigrasi.go.id/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": [
+   {
+    "name": "Indonesia eVisa",
+    "description": "Official electronic visa application portal identified in the government eVisa manual.",
+    "url": "https://evisa.imigrasi.go.id/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-id-bsn",
+  "slug": "id-bsn",
+  "name": "Badan Standardisasi Nasional",
+  "acronym": "BSN",
+  "country": "ID",
+  "level": "national",
+  "categories": [
+   "standards"
+  ],
+  "responsibilities": "BSN develops national standards for products, processes and systems. Its work supports quality, safety and compatibility of goods and services.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.bsn.go.id/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-id-trade",
+  "slug": "id-ministry-of-trade-of-the-republic-of-indonesia",
+  "name": "Ministry of Trade of the Republic of Indonesia",
+  "acronym": null,
+  "country": "ID",
+  "level": "national",
+  "categories": [
+   "trade_export"
+  ],
+  "responsibilities": "The ministry publishes information and public services for trade in Indonesia. Its services include foreign trade guidance and trade-related business support.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.kemendag.go.id/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-id-bkpm",
+  "slug": "id-ministry-of-investment-and-downstreaming-bkpm",
+  "name": "Ministry of Investment and Downstreaming / BKPM",
+  "acronym": null,
+  "country": "ID",
+  "level": "national",
+  "categories": [
+   "foreign_investment",
+   "industry_development"
+  ],
+  "responsibilities": "The ministry provides investment information and consultation services for Indonesia. Its website connects investors with the Online Single Submission business licensing system.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.bkpm.go.id/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-id-bkpm-jakarta",
+    "name": "Ministry of Investment and Downstreaming / BKPM, Jakarta",
+    "city": "Jakarta",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "email",
+      "label": "General questions and information",
+      "value": "ppid@bkpm.go.id"
+     },
+     {
+      "channel": "url",
+      "label": "Official contact and consultation options",
+      "value": "https://bkpm.go.id/id/dukungan-dan-bantuan/kontak/kontak-lokasi"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "Online Single Submission business licensing",
+    "description": "Access the business licensing system linked by the investment ministry.",
+    "url": "https://oss.go.id/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-id-ahu",
+  "slug": "id-directorate-general-of-general-legal-administration",
+  "name": "Directorate General of General Legal Administration",
+  "acronym": null,
+  "country": "ID",
+  "level": "national",
+  "categories": [
+   "business_registration"
+  ],
+  "responsibilities": "The directorate administers online legal services within Indonesia's Ministry of Law. AHU Online includes company, business entity and beneficial ownership services.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://ahu.go.id/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-id-ahu-jakarta-selatan",
+    "name": "Directorate General of General Legal Administration, Jakarta Selatan",
+    "city": "Jakarta Selatan",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "email",
+      "label": "AHU contact centre",
+      "value": "cs@ahu.go.id"
+     },
+     {
+      "channel": "phone",
+      "label": "AHU contact centre",
+      "value": "+622130015800"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "AHU Online company services",
+    "description": "Access the official menu of company and business entity administration services.",
+    "url": "https://ahu.go.id/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-id-customs",
+  "slug": "id-directorate-general-of-customs-and-excise",
+  "name": "Directorate General of Customs and Excise",
+  "acronym": null,
+  "country": "ID",
+  "level": "national",
+  "categories": [
+   "customs"
+  ],
+  "responsibilities": "The directorate provides customs and excise information and services. Its website publishes tariff, customs registration and import restriction resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.beacukai.go.id/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-id-tax",
+  "slug": "id-directorate-general-of-taxes",
+  "name": "Directorate General of Taxes",
+  "acronym": null,
+  "country": "ID",
+  "level": "national",
+  "categories": [
+   "tax"
+  ],
+  "responsibilities": "The directorate provides taxpayer information and tax administration resources. Its website links users to Coretax account and return filing guidance.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.pajak.go.id/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-id-bpom",
+  "slug": "id-indonesian-food-and-drug-authority",
+  "name": "Indonesian Food and Drug Authority",
+  "acronym": null,
+  "country": "ID",
+  "level": "national",
+  "categories": [
+   "food_biosecurity"
+  ],
+  "responsibilities": "BPOM publishes regulatory information about medicines and food products. Its website provides public service information and product-related notices.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.pom.go.id/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-id-quarantine",
+  "slug": "id-indonesian-quarantine-authority",
+  "name": "Indonesian Quarantine Authority",
+  "acronym": null,
+  "country": "ID",
+  "level": "national",
+  "categories": [
+   "food_biosecurity"
+  ],
+  "responsibilities": "The authority provides animal, fish and plant quarantine service information. Its online resources include quarantine applications and prior notice for imports.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://karantinaindonesia.go.id/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": [
+   {
+    "name": "Import prior notice",
+    "description": "Access the import prior notification system linked by the quarantine authority.",
+    "url": "https://notice.karantinaindonesia.go.id/",
+    "cost": null
+   },
+   {
+    "name": "PTK Online quarantine applications",
+    "description": "Access online quarantine registration and application services.",
+    "url": "https://ptk.karantinaindonesia.go.id/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-id-dgip",
+  "slug": "id-directorate-general-of-intellectual-property",
+  "name": "Directorate General of Intellectual Property",
+  "acronym": null,
+  "country": "ID",
+  "level": "national",
+  "categories": [
+   "intellectual_property"
+  ],
+  "responsibilities": "The directorate provides registration and search services for intellectual property rights in Indonesia. Its website supports trade mark, patent, design and copyright enquiries.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://dgip.go.id/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-id-dgip-jakarta-selatan",
+    "name": "Directorate General of Intellectual Property, Jakarta Selatan",
+    "city": "Jakarta Selatan",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "email",
+      "label": "Intellectual property enquiries",
+      "value": "halodjki@dgip.go.id"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "Online trade mark applications",
+    "description": "Access the trade mark application portal linked by the directorate.",
+    "url": "https://merek.dgip.go.id/",
+    "cost": null
+   },
+   {
+    "name": "Online patent applications",
+    "description": "Access the patent application portal linked by the directorate.",
+    "url": "https://paten.dgip.go.id/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-id-labour",
+  "slug": "id-ministry-of-manpower-of-the-republic-of-indonesia",
+  "name": "Ministry of Manpower of the Republic of Indonesia",
+  "acronym": null,
+  "country": "ID",
+  "level": "national",
+  "categories": [
+   "employment"
+  ],
+  "responsibilities": "The ministry publishes employment, training and labour protection information. Its services include workforce reporting and support for labour-related enquiries.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://kemnaker.go.id/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-id-higher-education",
+  "slug": "id-ministry-of-higher-education-science-and-technology-of-the-republic-of-indonesia",
+  "name": "Ministry of Higher Education, Science and Technology of the Republic of Indonesia",
+  "acronym": null,
+  "country": "ID",
+  "level": "national",
+  "categories": [
+   "education"
+  ],
+  "responsibilities": "The ministry publishes higher education, science and research information. Its public service resources include higher education data and guidance.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://kemdiktisaintek.go.id/en",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-id-higher-education-jakarta",
+    "name": "Ministry of Higher Education, Science and Technology of the Republic of Indonesia, Jakarta",
+    "city": "Jakarta",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "email",
+      "label": "Public service enquiries",
+      "value": "ult@kemdiktisaintek.go.id"
+     },
+     {
+      "channel": "whatsapp",
+      "label": "Published WhatsApp service",
+      "value": "+6285186069126"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-id-supreme-court",
+  "slug": "id-supreme-court-of-the-republic-of-indonesia",
+  "name": "Supreme Court of the Republic of Indonesia",
+  "acronym": null,
+  "country": "ID",
+  "level": "national",
+  "categories": [
+   "dispute_resolution"
+  ],
+  "responsibilities": "The Supreme Court publishes court decisions and judicial information. Its website links users to case information and the e-Court service.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.mahkamahagung.go.id/id",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": [
+   {
+    "name": "e-Court",
+    "description": "Access the court electronic service linked by the Supreme Court.",
+    "url": "https://ecourt.mahkamahagung.go.id/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-id-tourism",
+  "slug": "id-ministry-of-tourism-of-the-republic-of-indonesia",
+  "name": "Ministry of Tourism of the Republic of Indonesia",
+  "acronym": null,
+  "country": "ID",
+  "level": "national",
+  "categories": [
+   "tourism"
+  ],
+  "responsibilities": "The ministry publishes tourism policy and sector information. Its website provides tourism news, statistics and public service links.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.kemenpar.go.id/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-kh-tourism-training",
+  "slug": "kh-tourism-professional-training-department",
+  "name": "Tourism Professional Training Department",
+  "acronym": null,
+  "country": "KH",
+  "level": "national",
+  "categories": [
+   "tourism"
+  ],
+  "responsibilities": "The department registers, trains, assesses and certifies tourism professionals. It develops hospitality workforce standards and administers professional training resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.ctprs.gov.kh/en/about",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-kh-commerce",
+  "slug": "kh-ministry-of-commerce",
+  "name": "Ministry of Commerce",
+  "acronym": null,
+  "country": "KH",
+  "level": "national",
+  "categories": [
+   "trade_export",
+   "business_registration"
+  ],
+  "responsibilities": "The Ministry of Commerce handles business registration within Cambodia business setup procedures. Official government guidance directs businesses to its registration process.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.moc.gov.kh/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": [
+   {
+    "name": "One Portal business registration",
+    "description": "Access the government business registration platform linked by KHMERSME.",
+    "url": "https://www.registrationservices.gov.kh/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-kh-cdc",
+  "slug": "kh-cdc",
+  "name": "Council for the Development of Cambodia",
+  "acronym": "CDC",
+  "country": "KH",
+  "level": "national",
+  "categories": [
+   "foreign_investment",
+   "industry_development"
+  ],
+  "responsibilities": "CDC provides information and services for investment in Cambodia. Its website publishes investment resources and an online investment project management service.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://cdc.gov.kh/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": [
+   {
+    "name": "Investment Project Management",
+    "description": "Access the investment project management system linked by CDC.",
+    "url": "https://ipm.cdc.gov.kh/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-kh-customs",
+  "slug": "kh-general-department-of-customs-and-excise-of-cambodia",
+  "name": "General Department of Customs and Excise of Cambodia",
+  "acronym": null,
+  "country": "KH",
+  "level": "national",
+  "categories": [
+   "customs"
+  ],
+  "responsibilities": "The department publishes customs procedures and regulatory resources. Its website provides notices and information for customs users.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.customs.gov.kh/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-kh-tax",
+  "slug": "kh-general-department-of-taxation",
+  "name": "General Department of Taxation",
+  "acronym": null,
+  "country": "KH",
+  "level": "national",
+  "categories": [
+   "tax"
+  ],
+  "responsibilities": "The department publishes Cambodian tax information and regulations. Its website provides taxpayer notices and links to tax services.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.tax.gov.kh/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-kh-standards",
+  "slug": "kh-institute-of-standards-of-cambodia",
+  "name": "Institute of Standards of Cambodia",
+  "acronym": null,
+  "country": "KH",
+  "level": "national",
+  "categories": [
+   "standards"
+  ],
+  "responsibilities": "The institute handles applications relating to Cambodia Standard certification marks. Government licensing guidance identifies it as the contact for the relevant product certification permissions.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.isc.gov.kh/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-kh-standards-phnom-penh",
+    "name": "Institute of Standards of Cambodia, Phnom Penh",
+    "city": "Phnom Penh",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "url",
+      "label": "Official website fallback",
+      "value": "https://www.khmersme.gov.kh/en/laws-and-regulations/business-licenses/"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-kh-agriculture",
+  "slug": "kh-ministry-of-agriculture-forestry-and-fisheries",
+  "name": "Ministry of Agriculture, Forestry and Fisheries",
+  "acronym": null,
+  "country": "KH",
+  "level": "national",
+  "categories": [
+   "food_biosecurity"
+  ],
+  "responsibilities": "The ministry publishes agriculture, forestry and fisheries information. Its website provides access to public licensing resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.maff.gov.kh/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-kh-commerce-ip",
+  "slug": "kh-department-of-intellectual-property-ministry-of-commerce",
+  "name": "Department of Intellectual Property, Ministry of Commerce",
+  "acronym": null,
+  "country": "KH",
+  "level": "national",
+  "categories": [
+   "intellectual_property"
+  ],
+  "responsibilities": "The department receives trade mark registration applications. Official government business guidance directs applicants to the department or provincial commerce offices.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.cambodiaip.gov.kh/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-kh-labour",
+  "slug": "kh-ministry-of-labour-and-vocational-training",
+  "name": "Ministry of Labour and Vocational Training",
+  "acronym": null,
+  "country": "KH",
+  "level": "national",
+  "categories": [
+   "employment"
+  ],
+  "responsibilities": "The ministry is responsible for labour compliance inspections listed in government business guidance. Its official website publishes public labour and vocational training services.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.mlvt.gov.kh/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-kh-nadr",
+  "slug": "kh-national-authority-for-alternative-dispute-resolution",
+  "name": "National Authority for Alternative Dispute Resolution",
+  "acronym": null,
+  "country": "KH",
+  "level": "national",
+  "categories": [
+   "dispute_resolution"
+  ],
+  "responsibilities": "The authority publishes information about alternative dispute resolution in Cambodia. Its official website provides notices and resources for its services.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://nadr.gov.kh/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-la-tax",
+  "slug": "la-tax-department-ministry-of-finance",
+  "name": "Tax Department, Ministry of Finance",
+  "acronym": null,
+  "country": "LA",
+  "level": "national",
+  "categories": [
+   "tax"
+  ],
+  "responsibilities": "The department administers tax revenue and taxpayer services. It develops the Tax Revenue Information System and supports tax officers using the system.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://taxservice.mof.gov.la/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-la-education",
+  "slug": "la-ministry-of-education-and-sports",
+  "name": "Ministry of Education and Sports",
+  "acronym": null,
+  "country": "LA",
+  "level": "national",
+  "categories": [
+   "education"
+  ],
+  "responsibilities": "The ministry publishes education strategy and policy. Its official digital education strategy sets out planning for digital learning and education development.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://moes.edu.la/",
+  "lastVerified": null,
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-la-moic",
+  "slug": "la-ministry-of-industry-and-commerce",
+  "name": "Ministry of Industry and Commerce",
+  "acronym": null,
+  "country": "LA",
+  "level": "national",
+  "categories": [
+   "trade_export",
+   "business_registration",
+   "industry_development"
+  ],
+  "responsibilities": "The ministry provides business registration, foreign trade and enterprise support information. Its departmental structure includes trade, intellectual property, standards and manufacturing functions.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://moic.gov.la/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-la-moic-vientiane",
+    "name": "Ministry of Industry and Commerce, Vientiane",
+    "city": "Vientiane",
+    "hours": "Monday to Friday 08:00 to 12:00 Monday to Friday 13:00 to 16:00",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "General enquiries",
+      "value": "+85621453492"
+     },
+     {
+      "channel": "email",
+      "label": "General enquiries",
+      "value": "info@moic.gov.la"
+     },
+     {
+      "channel": "web_form",
+      "label": "Ministry enquiry form",
+      "value": "https://moic.gov.la/en/contact"
+     }
+    ]
+   },
+   {
+    "id": "off-la-moic-ban-fai-vientiane",
+    "name": "Ministry of Industry and Commerce, Ban Fai Office",
+    "city": "Vientiane",
+    "hours": "Monday to Friday 08:00 to 12:00 Monday to Friday 13:00 to 16:00",
+    "contacts": [
+     {
+      "channel": "url",
+      "label": "Official website fallback",
+      "value": "https://moic.gov.la/en/contact"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-la-ipmc",
+  "slug": "la-ipmc",
+  "name": "Investment Promotion and Management Committee",
+  "acronym": "IPMC",
+  "country": "LA",
+  "level": "national",
+  "categories": [
+   "foreign_investment"
+  ],
+  "responsibilities": "The committee publishes investment opportunities and guidance on establishing investment projects in Laos. Its website provides one stop service information, application forms and investment resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://investlaos.gov.la/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-la-ipmc-vientiane",
+    "name": "Investment Promotion and Management Committee, Vientiane",
+    "city": "Vientiane",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "General enquiries",
+      "value": "+85621419339"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "Investment application forms and guidance",
+    "description": "Official investment portal with application forms and one stop service guidance.",
+    "url": "https://investlaos.gov.la/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-la-foreign-trade",
+  "slug": "la-department-of-foreign-trade",
+  "name": "Department of Foreign Trade",
+  "acronym": null,
+  "country": "LA",
+  "level": "national",
+  "categories": [
+   "trade_export"
+  ],
+  "responsibilities": "The department publishes the Lao trade portal for import and export information. The portal helps traders find tariffs, procedures, regulations and trade requirements.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.laotradeportal.gov.la/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-la-foreign-trade-vientiane",
+    "name": "Department of Foreign Trade, Vientiane",
+    "city": "Vientiane",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Trade Facility Division",
+      "value": "+85621454224"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "Lao trade information portal",
+    "description": "Search official import and export information, including commodity tariffs and procedures.",
+    "url": "https://www.laotradeportal.gov.la/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-la-customs",
+  "slug": "la-department-of-customs",
+  "name": "Department of Customs",
+  "acronym": null,
+  "country": "LA",
+  "level": "national",
+  "categories": [
+   "customs"
+  ],
+  "responsibilities": "The department controls goods entering and leaving Laos. It protects the border from prohibited goods and collects customs duties.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://customs.gov.la/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-la-standards-metrology",
+  "slug": "la-department-of-standardization-and-metrology",
+  "name": "Department of Standardization and Metrology",
+  "acronym": null,
+  "country": "LA",
+  "level": "national",
+  "categories": [
+   "standards"
+  ],
+  "responsibilities": "The department provides the national technical barriers to trade enquiry point. It answers questions about product standards, technical regulations and conformity assessment.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://moic.gov.la/en/departments",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-la-standards-metrology-vientiane",
+    "name": "Department of Standardization and Metrology, Vientiane",
+    "city": "Vientiane",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "National Standards Division, TBT enquiry point",
+      "value": "+85621732371"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-la-ip",
+  "slug": "la-department-of-intellectual-property",
+  "name": "Department of Intellectual Property",
+  "acronym": null,
+  "country": "LA",
+  "level": "national",
+  "categories": [
+   "intellectual_property"
+  ],
+  "responsibilities": "The department registers and protects intellectual property rights in Laos. Its mandate covers trademarks, patents, copyright, industrial designs and geographical indications.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://moic.gov.la/en/departments/ip",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-la-food-drugs",
+  "slug": "la-department-of-food-and-drugs",
+  "name": "Department of Food and Drugs",
+  "acronym": null,
+  "country": "LA",
+  "level": "national",
+  "categories": [
+   "food_biosecurity"
+  ],
+  "responsibilities": "The department handles product registration and import licensing within the health ministry. The official trade portal directs supplementary food import enquiries to this department.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.fdd.gov.la/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-la-consular",
+  "slug": "la-consular-department-ministry-of-foreign-affairs",
+  "name": "Consular Department, Ministry of Foreign Affairs",
+  "acronym": null,
+  "country": "LA",
+  "level": "national",
+  "categories": [
+   "immigration"
+  ],
+  "responsibilities": "The ministry issues Lao eVisa approval letters through its online visa service. The consular department publishes service information and closure dates for this process.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://consularlao.gov.la/visadocument",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": [
+   {
+    "name": "Lao tourist eVisa application and status service",
+    "description": "Official tourist eVisa application and status service. The published terms restrict this service to tourist visas and prohibit paid or unpaid work during the visit.",
+    "url": "https://laoevisa.gov.la/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-la-ipmc-office",
+  "slug": "la-ipo",
+  "name": "Investment Promotion and Management Committee Office",
+  "acronym": "IPO",
+  "country": "LA",
+  "level": "national",
+  "categories": [
+   "foreign_investment"
+  ],
+  "responsibilities": "The office serves as the committee secretariat and investment one stop service office. It coordinates investment proposals, concession and controlled business applications, investor issues and economic zone development.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://investlaos.gov.la/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-la-enterprise-management",
+  "slug": "la-dem",
+  "name": "Department of Enterprise Management",
+  "acronym": "DEM",
+  "country": "LA",
+  "level": "national",
+  "categories": [
+   "business_registration"
+  ],
+  "responsibilities": "The department manages enterprise registration, licensing and compliance for enterprises within the industry and commerce ministry remit. Its functions include registration amendments, licensing records and monitoring licence conditions.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://moic.gov.la/en/departments/dem",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-mm-labour",
+  "slug": "mm-ministry-of-labour",
+  "name": "Ministry of Labour",
+  "acronym": null,
+  "country": "MM",
+  "level": "national",
+  "categories": [
+   "employment"
+  ],
+  "responsibilities": "The ministry oversees labour functions and publishes employment resources. Its government directory entry links the Department of Labour and the national jobs website.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.mol.gov.mm/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-mm-commerce",
+  "slug": "mm-ministry-of-commerce",
+  "name": "Ministry of Commerce",
+  "acronym": null,
+  "country": "MM",
+  "level": "national",
+  "categories": [
+   "trade_export"
+  ],
+  "responsibilities": "The ministry publishes trade information and import and export announcements. Its website directs businesses to trade services and regulatory resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://commerce.gov.mm/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-mm-dica",
+  "slug": "mm-dica",
+  "name": "Directorate of Investment and Company Administration",
+  "acronym": "DICA",
+  "country": "MM",
+  "level": "national",
+  "categories": [
+   "business_registration",
+   "foreign_investment"
+  ],
+  "responsibilities": "DICA administers company registration and provides investment facilitation and guidance. Its divisions assess investment proposals and support the Myanmar Investment Commission and investors with post-permit matters.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.dica.gov.mm/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-mm-dica-yangon",
+    "name": "Directorate of Investment and Company Administration, Yangon",
+    "city": "Yangon",
+    "hours": "Monday to Friday 09:30 to 16:30",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Registry enquiries",
+      "value": "+951657891"
+     },
+     {
+      "channel": "phone",
+      "label": "Registry enquiries",
+      "value": "+951657714"
+     },
+     {
+      "channel": "phone",
+      "label": "Registry enquiries",
+      "value": "+951657057"
+     },
+     {
+      "channel": "email",
+      "label": "Registry enquiries",
+      "value": "mycodica.core@gmail.com"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "Myanmar Companies Online",
+    "description": "Company registration, filing, company search and official document access.",
+    "url": "https://www.myco.dica.gov.mm/",
+    "cost": null
+   },
+   {
+    "name": "Investment Monitoring System",
+    "description": "Official investment monitoring system referral linked by DICA for supported post-permit processes.",
+    "url": "https://ims.dica.gov.mm/",
+    "cost": null
+   },
+   {
+    "name": "Investment company visa extension recommendation",
+    "description": "Official DICA visa extension recommendation portal referral. It does not itself grant a visa or work permission.",
+    "url": "https://visaonline.dica.gov.mm/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-mm-customs",
+  "slug": "mm-myanmar-customs-department",
+  "name": "Myanmar Customs Department",
+  "acronym": null,
+  "country": "MM",
+  "level": "national",
+  "categories": [
+   "customs"
+  ],
+  "responsibilities": "The department publishes customs notices and border trade information. The official trade portal identifies it as an administrator of customs laws and procedures.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.customs.gov.mm/?lang=en",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-mm-ird",
+  "slug": "mm-ird",
+  "name": "Internal Revenue Department",
+  "acronym": "IRD",
+  "country": "MM",
+  "level": "national",
+  "categories": [
+   "tax"
+  ],
+  "responsibilities": "The department publishes tax information and notices for taxpayers. Its website provides access to tax resources and electronic tax services.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.ird.gov.mm/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-mm-nsqd",
+  "slug": "mm-national-standards-and-quality-department",
+  "name": "National Standards and Quality Department",
+  "acronym": null,
+  "country": "MM",
+  "level": "national",
+  "categories": [
+   "standards",
+   "industry_development"
+  ],
+  "responsibilities": "The department supports the national standards and quality infrastructure. Its National Certification Body provides product certification services for manufacturers and importers.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.myanmarstandards.org.mm/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-mm-ipd",
+  "slug": "mm-department-of-intellectual-property",
+  "name": "Department of Intellectual Property",
+  "acronym": null,
+  "country": "MM",
+  "level": "national",
+  "categories": [
+   "intellectual_property"
+  ],
+  "responsibilities": "The department publishes information on patents, industrial designs, trademarks, geographical indications and copyright. It provides online links for intellectual property searches, filing and appointments.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.ipd.gov.mm/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-mm-ipd-nay-pyi-taw",
+    "name": "Department of Intellectual Property, Nay Pyi Taw",
+    "city": "Nay Pyi Taw",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "General enquiries",
+      "value": "+95673430571"
+     },
+     {
+      "channel": "phone",
+      "label": "General enquiries",
+      "value": "+95673430572"
+     },
+     {
+      "channel": "email",
+      "label": "General enquiries",
+      "value": "ipdept.inquiry@gmail.com"
+     }
+    ]
+   },
+   {
+    "id": "off-mm-ipd-yangon-yangon",
+    "name": "Department of Intellectual Property, Yangon",
+    "city": "Yangon",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "url",
+      "label": "Official website fallback",
+      "value": "https://www.ipd.gov.mm/"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "Intellectual property e-filing information",
+    "description": "Official e-filing information page linked by the intellectual property department.",
+    "url": "https://www.ipd.gov.mm/e-filing",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-mm-education",
+  "slug": "mm-ministry-of-education",
+  "name": "Ministry of Education",
+  "acronym": null,
+  "country": "MM",
+  "level": "national",
+  "categories": [
+   "education"
+  ],
+  "responsibilities": "The ministry publishes education policy and information about schools and higher education. Its website provides education announcements and institutional resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.moe.gov.mm/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-mm-supreme-court",
+  "slug": "mm-union-supreme-court",
+  "name": "Union Supreme Court",
+  "acronym": null,
+  "country": "MM",
+  "level": "national",
+  "categories": [
+   "dispute_resolution"
+  ],
+  "responsibilities": "The court publishes judicial information and resources. Its website links court information and other courts in the national judicial system.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.unionsupremecourt.gov.mm/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-mm-tourism",
+  "slug": "mm-ministry-of-hotels-tourism-and-culture",
+  "name": "Ministry of Hotels, Tourism and Culture",
+  "acronym": null,
+  "country": "MM",
+  "level": "national",
+  "categories": [
+   "tourism"
+  ],
+  "responsibilities": "The ministry publishes tourism information and guidance for tourism businesses. It also provides links to tourism legislation, industry resources and visitor information.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://tourism.gov.mm/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-mm-mic",
+  "slug": "mm-mic",
+  "name": "Myanmar Investment Commission",
+  "acronym": "MIC",
+  "country": "MM",
+  "level": "national",
+  "categories": [
+   "foreign_investment"
+  ],
+  "responsibilities": "MIC promotes and facilitates investment and coordinates investment matters. It issues investment notifications, permits and endorsements within its published remit.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.dica.gov.mm/about-the-mic/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-mm-mic-yangon",
+    "name": "MIC enquiry route through DICA, Yangon",
+    "city": "Yangon",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "DICA investment enquiries for MIC",
+      "value": "+951658102"
+     },
+     {
+      "channel": "phone",
+      "label": "DICA investment enquiries for MIC",
+      "value": "+951658103"
+     },
+     {
+      "channel": "email",
+      "label": "DICA investment enquiries",
+      "value": "ip.dica@mifer.gov.mm"
+     },
+     {
+      "channel": "email",
+      "label": "Investment promotion enquiries",
+      "value": "investmentpromotion@dica.gov.mm"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "MIC permit application guide",
+    "description": "Official process guide for projects requiring a MIC permit. This is guidance, not an authenticated online submission system.",
+    "url": "https://www.dica.gov.mm/doing-business/apply-for-a-mic-permit/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-my-immigration",
+  "slug": "my-immigration-department-of-malaysia",
+  "name": "Immigration Department of Malaysia",
+  "acronym": null,
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "immigration"
+  ],
+  "responsibilities": "The department issues visas, passes and permits to foreign nationals entering Malaysia. It manages movement through authorised entry and exit points and provides expatriate and student pass functions.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.imi.gov.my/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-my-maqis",
+  "slug": "my-maqis",
+  "name": "Malaysian Quarantine and Inspection Services Department",
+  "acronym": "MAQIS",
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "food_biosecurity"
+  ],
+  "responsibilities": "MAQIS handles agricultural import permits, quarantine and inspection services. It publishes guidance on animals, plants, fish and relevant import procedures.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.maqis.gov.my/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-my-maqis-putrajaya",
+    "name": "Malaysian Quarantine and Inspection Services Department, Putrajaya",
+    "city": "Putrajaya",
+    "hours": "Monday to Friday 09:00 to 18:00",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "General enquiries",
+      "value": "+60388708000"
+     },
+     {
+      "channel": "email",
+      "label": "Import and export enquiries",
+      "value": "feedback@maqis.gov.my"
+     },
+     {
+      "channel": "email",
+      "label": "Quarantine enquiries",
+      "value": "bq@maqis.gov.my"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "MAQIS SPEED registration",
+    "description": "Official registration referral for importers, exporters and trading agents.",
+    "url": "https://imaqis.maqis.gov.my/SPEED",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-my-human-resources",
+  "slug": "my-kesuma",
+  "name": "Ministry of Human Resources",
+  "acronym": "KESUMA",
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "employment"
+  ],
+  "responsibilities": "The ministry develops labour and employment policy and skills programmes. Its responsibilities include workplace safety, industrial relations, labour market information and social security.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.mohr.gov.my/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-my-human-resources-putrajaya",
+    "name": "Ministry of Human Resources, Putrajaya",
+    "city": "Putrajaya",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "General enquiries",
+      "value": "+60388806200"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-my-mida",
+  "slug": "my-mida",
+  "name": "Malaysian Investment Development Authority",
+  "acronym": "MIDA",
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "foreign_investment",
+   "industry_development"
+  ],
+  "responsibilities": "MIDA provides information and assistance for investment in Malaysia. Its website publishes sector resources, investor guidance and links to electronic services.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.mida.gov.my/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-my-matrade",
+  "slug": "my-matrade",
+  "name": "Malaysia External Trade Development Corporation",
+  "acronym": "MATRADE",
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "trade_export"
+  ],
+  "responsibilities": "MATRADE promotes Malaysian exports and assists businesses entering international markets. It undertakes trade promotion and market research activities.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.matrade.gov.my/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-my-ssm",
+  "slug": "my-ssm",
+  "name": "Companies Commission of Malaysia",
+  "acronym": "SSM",
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "business_registration"
+  ],
+  "responsibilities": "SSM provides company and business registration services. Its website publishes registration guidelines and corporate compliance resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.ssm.com.my/Pages/Home.aspx",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-my-customs",
+  "slug": "my-royal-malaysian-customs-department",
+  "name": "Royal Malaysian Customs Department",
+  "acronym": null,
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "customs"
+  ],
+  "responsibilities": "The department publishes Malaysia customs information through its official portal. Its current detailed service scope was not readable in the retrieved home page.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.customs.gov.my/ms/",
+  "lastVerified": null,
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-my-hasil",
+  "slug": "my-inland-revenue-board-of-malaysia",
+  "name": "Inland Revenue Board of Malaysia",
+  "acronym": null,
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "tax"
+  ],
+  "responsibilities": "The board publishes Malaysian tax information and taxpayer resources. Its official website includes corporate and international tax guidance.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.hasil.gov.my/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-my-standards",
+  "slug": "my-department-of-standards-malaysia",
+  "name": "Department of Standards Malaysia",
+  "acronym": null,
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "standards"
+  ],
+  "responsibilities": "The department provides information about Malaysian Standards and standardisation activities. Its website links users to standards purchasing and registration systems.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.jsm.gov.my/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-my-myipo",
+  "slug": "my-myipo",
+  "name": "Intellectual Property Corporation of Malaysia",
+  "acronym": "MyIPO",
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "intellectual_property"
+  ],
+  "responsibilities": "MyIPO publishes information about patents, trade marks, copyright and designs. Its official website provides resources on protecting intellectual property in Malaysia.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.myipo.gov.my/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-my-higher-education",
+  "slug": "my-ministry-of-higher-education",
+  "name": "Ministry of Higher Education",
+  "acronym": null,
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "education"
+  ],
+  "responsibilities": "The ministry publishes higher education information and public service resources. Its website covers admissions, scholarships and research support.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.mohe.gov.my/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-my-judiciary",
+  "slug": "my-office-of-the-chief-registrar-of-the-federal-court-of-malaysia",
+  "name": "Office of the Chief Registrar of the Federal Court of Malaysia",
+  "acronym": null,
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "dispute_resolution"
+  ],
+  "responsibilities": "The office publishes information about Malaysia federal and state courts. Its website links users to court resources and electronic judiciary services.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.kehakiman.gov.my/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": [
+   {
+    "name": "e-Kehakiman",
+    "description": "Access the electronic judiciary system linked by the official courts portal.",
+    "url": "https://ecourt.kehakiman.gov.my/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-my-tourism",
+  "slug": "my-tourism-malaysia",
+  "name": "Tourism Malaysia",
+  "acronym": null,
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "tourism"
+  ],
+  "responsibilities": "Tourism Malaysia promotes Malaysia as a travel destination. Its corporate website provides tourism industry resources and promotional programme information.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.tourism.gov.my/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-my-food-safety-quality",
+  "slug": "my-fsqp",
+  "name": "Food Safety and Quality Programme, Ministry of Health Malaysia",
+  "acronym": "FSQP",
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "food_biosecurity"
+  ],
+  "responsibilities": "The programme regulates and monitors food safety and quality, including food entering Malaysia. It provides food industry certification and guidance on food standards, labelling and hygiene.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.moh.gov.my/en/corporate-info/division-information/food-safety-and-quality-programme",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-my-food-safety-quality-putrajaya",
+    "name": "Food Safety and Quality Programme, Ministry of Health Malaysia, Putrajaya",
+    "city": "Putrajaya",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Food Safety and Quality Programme enquiries",
+      "value": "+60388850796"
+     },
+     {
+      "channel": "phone",
+      "label": "Food Safety and Quality Programme enquiries",
+      "value": "+60388850797"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-my-agriculture",
+  "slug": "my-department-of-agriculture-malaysia",
+  "name": "Department of Agriculture Malaysia",
+  "acronym": null,
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "food_biosecurity",
+   "industry_development"
+  ],
+  "responsibilities": "The department provides agricultural advice, technical support and development services. It protects crops from pests and diseases through plant protection and biosecurity services.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.doa.gov.my/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-my-agriculture-putrajaya",
+    "name": "Department of Agriculture Malaysia, Putrajaya",
+    "city": "Putrajaya",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Department enquiries",
+      "value": "+60388703102"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-my-veterinary",
+  "slug": "my-department-of-veterinary-services-malaysia",
+  "name": "Department of Veterinary Services Malaysia",
+  "acronym": null,
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "food_biosecurity"
+  ],
+  "responsibilities": "The department coordinates animal disease control and veterinary biosecurity. Its published functions include veterinary inspections, animal product safety and animal import and export controls.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.dvs.gov.my/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-my-veterinary-putrajaya",
+    "name": "Department of Veterinary Services Malaysia, Putrajaya",
+    "city": "Putrajaya",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Department general enquiries",
+      "value": "+60388702000"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-my-fisheries-biosecurity",
+  "slug": "my-fisheries-biosecurity-division-department-of-fisheries-malaysia",
+  "name": "Fisheries Biosecurity Division, Department of Fisheries Malaysia",
+  "acronym": null,
+  "country": "MY",
+  "level": "national",
+  "categories": [
+   "food_biosecurity"
+  ],
+  "responsibilities": "The division develops fisheries biosecurity and aquatic animal health policy. It coordinates health surveillance, food safety monitoring and export certification procedures for fish and fishery products.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.dof.gov.my/korporat/bahagian-unit/bahagian-biosekuriti-perikanan/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-my-fisheries-biosecurity-putrajaya",
+    "name": "Fisheries Biosecurity Division, Department of Fisheries Malaysia, Putrajaya",
+    "city": "Putrajaya",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Fisheries biosecurity enquiries",
+      "value": "+60388704606"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-ph-boi",
+  "slug": "ph-boi",
+  "name": "Board of Investments",
+  "acronym": "BOI",
+  "country": "PH",
+  "level": "national",
+  "categories": [
+   "foreign_investment",
+   "industry_development"
+  ],
+  "responsibilities": "BOI develops strategic investment priorities with other government agencies. It provides an investment policy route for projects aligned with national industry development objectives.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://boi.gov.ph/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-ph-fda",
+  "slug": "ph-fda",
+  "name": "Food and Drug Administration",
+  "acronym": "FDA",
+  "country": "PH",
+  "level": "national",
+  "categories": [
+   "food_biosecurity"
+  ],
+  "responsibilities": "FDA regulates processed food and health products. The official customs guidance identifies it as the authority for relevant importer licensing and product registration.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.fda.gov.ph/",
+  "lastVerified": null,
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-ph-ched",
+  "slug": "ph-ched",
+  "name": "Commission on Higher Education",
+  "acronym": "CHED",
+  "country": "PH",
+  "level": "national",
+  "categories": [
+   "education"
+  ],
+  "responsibilities": "CHED develops plans and policy for higher education. It oversees tertiary and graduate education and publishes institutional and programme resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://ched.gov.ph/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-ph-dti",
+  "slug": "ph-dti",
+  "name": "Department of Trade and Industry",
+  "acronym": "DTI",
+  "country": "PH",
+  "level": "national",
+  "categories": [
+   "trade_export",
+   "industry_development"
+  ],
+  "responsibilities": "DTI provides trade, industry and business development information. Its website connects users with online business services and trade resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.dti.gov.ph/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": [
+   {
+    "name": "DTI online services",
+    "description": "Access the official DTI online service gateway.",
+    "url": "https://one.dti.gov.ph/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-ph-sec",
+  "slug": "ph-sec",
+  "name": "Securities and Exchange Commission",
+  "acronym": "SEC",
+  "country": "PH",
+  "level": "national",
+  "categories": [
+   "business_registration"
+  ],
+  "responsibilities": "SEC supervises the corporate sector and securities markets. Its remit includes the registration and regulation of securities market participants.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.sec.gov.ph/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-ph-customs",
+  "slug": "ph-bureau-of-customs",
+  "name": "Bureau of Customs",
+  "acronym": null,
+  "country": "PH",
+  "level": "national",
+  "categories": [
+   "customs"
+  ],
+  "responsibilities": "The Bureau of Customs administers customs functions for the Philippines. Its government agency profile describes revenue collection and border-related responsibilities.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://customs.gov.ph/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-ph-bir",
+  "slug": "ph-bir",
+  "name": "Bureau of Internal Revenue",
+  "acronym": "BIR",
+  "country": "PH",
+  "level": "national",
+  "categories": [
+   "tax"
+  ],
+  "responsibilities": "BIR administers national internal revenue taxes. Its responsibilities include assessment, collection and enforcement under the internal revenue framework.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.bir.gov.ph/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-ph-bps",
+  "slug": "ph-bps",
+  "name": "Bureau of Philippine Standards",
+  "acronym": "BPS",
+  "country": "PH",
+  "level": "national",
+  "categories": [
+   "standards"
+  ],
+  "responsibilities": "BPS provides standards development and product conformity information. Its website lists standards resources, testing laboratories and certification-related guidance.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://bps.dti.gov.ph/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-ph-ipophl",
+  "slug": "ph-ipophl",
+  "name": "Intellectual Property Office of the Philippines",
+  "acronym": "IPOPHL",
+  "country": "PH",
+  "level": "national",
+  "categories": [
+   "intellectual_property"
+  ],
+  "responsibilities": "IPOPHL provides information and online services for intellectual property rights. Its resources cover patents, trade marks, designs and related searches.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.ipophil.gov.ph/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-ph-immigration",
+  "slug": "ph-bureau-of-immigration",
+  "name": "Bureau of Immigration",
+  "acronym": null,
+  "country": "PH",
+  "level": "national",
+  "categories": [
+   "immigration"
+  ],
+  "responsibilities": "The bureau publishes immigration, visa and alien registration information. Its website provides access to electronic immigration services and visa status resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://immigration.gov.ph/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": [
+   {
+    "name": "Bureau of Immigration eServices",
+    "description": "Access supported immigration electronic transactions and status services.",
+    "url": "https://e-services.immigration.gov.ph/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-ph-supreme-court",
+  "slug": "ph-supreme-court-of-the-philippines",
+  "name": "Supreme Court of the Philippines",
+  "acronym": null,
+  "country": "PH",
+  "level": "national",
+  "categories": [
+   "dispute_resolution"
+  ],
+  "responsibilities": "The Supreme Court publishes legal and court information through its electronic library. The library provides access to rules of court, legislation and judicial materials.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://sc.judiciary.gov.ph/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-ph-peza",
+  "slug": "ph-peza",
+  "name": "Philippine Economic Zone Authority",
+  "acronym": "PEZA",
+  "country": "PH",
+  "level": "national",
+  "categories": [
+   "foreign_investment",
+   "industry_development"
+  ],
+  "responsibilities": "PEZA promotes investment through the Philippine economic zone framework. Its official publication describes support for investors establishing, expanding or diversifying operations in economic zones.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.peza.gov.ph/",
+  "lastVerified": null,
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-sg-enterprise",
+  "slug": "sg-enterprise-singapore",
+  "name": "Enterprise Singapore",
+  "acronym": null,
+  "country": "SG",
+  "level": "national",
+  "categories": [
+   "trade_export",
+   "industry_development",
+   "standards"
+  ],
+  "responsibilities": "Enterprise Singapore supports business growth, innovation and international market connections. Its website provides quality and standards resources and information for businesses partnering with Singapore.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.enterprisesg.gov.sg/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-sg-edb",
+  "slug": "sg-edb",
+  "name": "Singapore Economic Development Board",
+  "acronym": "EDB",
+  "country": "SG",
+  "level": "national",
+  "categories": [
+   "foreign_investment",
+   "industry_development"
+  ],
+  "responsibilities": "EDB develops strategies to support Singapore as a location for business, innovation and talent. It provides a public enquiry route for investors and businesses.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.edb.gov.sg/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-sg-edb-singapore",
+    "name": "Singapore Economic Development Board, Singapore",
+    "city": "Singapore",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Public enquiries",
+      "value": "+6568326832"
+     },
+     {
+      "channel": "email",
+      "label": "Quality service enquiries",
+      "value": "EDB_QSM@edb.gov.sg"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-sg-acra",
+  "slug": "sg-acra",
+  "name": "Accounting and Corporate Regulatory Authority",
+  "acronym": "ACRA",
+  "country": "SG",
+  "level": "national",
+  "categories": [
+   "business_registration"
+  ],
+  "responsibilities": "ACRA provides business registration, filing and company information services. Its Bizfile portal supports online transactions, while service counter consultations require appointments.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.acra.gov.sg/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-sg-acra-singapore",
+    "name": "Accounting and Corporate Regulatory Authority, Singapore",
+    "city": "Singapore",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "General enquiries",
+      "value": "+6562486028"
+     },
+     {
+      "channel": "url",
+      "label": "Official contact options",
+      "value": "https://www.acra.gov.sg/help-support/contact-us/"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "Bizfile registration and filing",
+    "description": "Access business registration, filing and information services.",
+    "url": "https://www.bizfile.gov.sg/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-sg-customs",
+  "slug": "sg-singapore-customs",
+  "name": "Singapore Customs",
+  "acronym": null,
+  "country": "SG",
+  "level": "national",
+  "categories": [
+   "customs"
+  ],
+  "responsibilities": "Singapore Customs provides information on customs registration, permits and import, export and transhipment procedures. Its online resources explain duties, GST and licensing requirements.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.customs.gov.sg/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": [
+   {
+    "name": "Singapore Customs eServices",
+    "description": "Access the official Customs online service directory.",
+    "url": "https://eservices1.customs.gov.sg/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-sg-iras",
+  "slug": "sg-iras",
+  "name": "Inland Revenue Authority of Singapore",
+  "acronym": "IRAS",
+  "country": "SG",
+  "level": "national",
+  "categories": [
+   "tax"
+  ],
+  "responsibilities": "IRAS provides information about Singapore taxes and tax compliance. Its website supports taxpayers with filing, payment and myTax Portal guidance.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.iras.gov.sg/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-sg-sfa",
+  "slug": "sg-sfa",
+  "name": "Singapore Food Agency",
+  "acronym": "SFA",
+  "country": "SG",
+  "level": "national",
+  "categories": [
+   "food_biosecurity"
+  ],
+  "responsibilities": "SFA provides food import and export requirements and licensing information. It publishes food labelling guidance and requirements for overseas establishments supplying Singapore.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.sfa.gov.sg/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-sg-sfa-singapore",
+    "name": "Singapore Food Agency, Singapore",
+    "city": "Singapore",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "SFA contact centre",
+      "value": "+6568052871"
+     },
+     {
+      "channel": "url",
+      "label": "Official contact and feedback options",
+      "value": "https://www.sfa.gov.sg/contact-us/sfa-headquarters"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-sg-ipos",
+  "slug": "sg-ipos",
+  "name": "Intellectual Property Office of Singapore",
+  "acronym": "IPOS",
+  "country": "SG",
+  "level": "national",
+  "categories": [
+   "intellectual_property",
+   "dispute_resolution"
+  ],
+  "responsibilities": "IPOS provides information and services for registering and managing intellectual property. It also publishes resources on resolving intellectual property disputes.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.ipos.gov.sg/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-sg-ipos-singapore",
+    "name": "Intellectual Property Office of Singapore, Singapore",
+    "city": "Singapore",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "IPOS enquiries",
+      "value": "+6563398616"
+     },
+     {
+      "channel": "url",
+      "label": "Enquiries and appointments",
+      "value": "https://www.ipos.gov.sg/contact-us/"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "IPOS Digital Hub",
+    "description": "Register, search, renew and manage supported intellectual property rights.",
+    "url": "https://digitalhub.ipos.gov.sg/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-sg-mom",
+  "slug": "sg-mom",
+  "name": "Ministry of Manpower",
+  "acronym": "MOM",
+  "country": "SG",
+  "level": "national",
+  "categories": [
+   "employment",
+   "immigration"
+  ],
+  "responsibilities": "MOM provides work pass services and information on employment conditions and workplace safety. Its resources explain foreign workforce requirements and employment rights.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.mom.gov.sg/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-sg-mom-singapore",
+    "name": "MOM Services Centre",
+    "city": "Singapore",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "url",
+      "label": "Work pass and employment enquiries",
+      "value": "https://www.mom.gov.sg/contact-us"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-sg-ica",
+  "slug": "sg-ica",
+  "name": "Immigration and Checkpoints Authority",
+  "acronym": "ICA",
+  "country": "SG",
+  "level": "national",
+  "categories": [
+   "immigration"
+  ],
+  "responsibilities": "ICA publishes entry, visa and immigration procedures for Singapore. It provides information and online services for permanent residence, visit passes and student passes.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.ica.gov.sg/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-sg-moe",
+  "slug": "sg-ministry-of-education",
+  "name": "Ministry of Education",
+  "acronym": null,
+  "country": "SG",
+  "level": "national",
+  "categories": [
+   "education"
+  ],
+  "responsibilities": "The Ministry of Education oversees education services in Singapore. Its official directory lists education administration and public enquiry channels.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.moe.gov.sg/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-sg-moe-singapore",
+    "name": "Ministry of Education, Singapore",
+    "city": "Singapore",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "email",
+      "label": "Public feedback and enquiries",
+      "value": "MOE_QSM@moe.gov.sg"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-sg-courts",
+  "slug": "sg-singapore-courts",
+  "name": "Singapore Courts",
+  "acronym": null,
+  "country": "SG",
+  "level": "national",
+  "categories": [
+   "dispute_resolution"
+  ],
+  "responsibilities": "Singapore Courts publishes guidance for civil and commercial court matters. It explains alternatives to trial, including mediation, conciliation and neutral evaluation.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.judiciary.gov.sg/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-sg-stb",
+  "slug": "sg-singapore-tourism-board",
+  "name": "Singapore Tourism Board",
+  "acronym": null,
+  "country": "SG",
+  "level": "national",
+  "categories": [
+   "tourism"
+  ],
+  "responsibilities": "The Singapore Tourism Board publishes tourism industry information. Its official website provides resources for tourism businesses and visitors.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.stb.gov.sg/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-th-education",
+  "slug": "th-ministry-of-education",
+  "name": "Ministry of Education",
+  "acronym": null,
+  "country": "TH",
+  "level": "national",
+  "categories": [
+   "education"
+  ],
+  "responsibilities": "The ministry publishes national education policy and implementation guidance. Its policy resources cover education quality, access and learning development.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.moe.go.th/",
+  "lastVerified": null,
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-th-immigration",
+  "slug": "th-immigration-bureau-royal-thai-police",
+  "name": "Immigration Bureau, Royal Thai Police",
+  "acronym": null,
+  "country": "TH",
+  "level": "national",
+  "categories": [
+   "immigration"
+  ],
+  "responsibilities": "The bureau handles temporary stay and immigration matters. The official government portal describes its electronic extension service for eligible categories.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.immigration.go.th/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-th-ditp",
+  "slug": "th-ditp",
+  "name": "Department of International Trade Promotion",
+  "acronym": "DITP",
+  "country": "TH",
+  "level": "national",
+  "categories": [
+   "trade_export"
+  ],
+  "responsibilities": "DITP provides information and support for international trade. Its services include market information, export training and trade-related enquiries.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.ditp.go.th/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-th-boi",
+  "slug": "th-boi",
+  "name": "Thailand Board of Investment",
+  "acronym": "BOI",
+  "country": "TH",
+  "level": "national",
+  "categories": [
+   "foreign_investment",
+   "industry_development"
+  ],
+  "responsibilities": "BOI provides investment promotion information and investor enquiry services. Its published contact channels cover proposed investments, promoted projects and foreign expert privileges.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.boi.go.th/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-th-boi-bangkok",
+    "name": "Thailand Board of Investment, Bangkok",
+    "city": "Bangkok",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "BOI head office",
+      "value": "+6625538111"
+     },
+     {
+      "channel": "email",
+      "label": "BOI enquiries",
+      "value": "head@boi.go.th"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-th-dbd",
+  "slug": "th-dbd",
+  "name": "Department of Business Development",
+  "acronym": "DBD",
+  "country": "TH",
+  "level": "national",
+  "categories": [
+   "business_registration"
+  ],
+  "responsibilities": "DBD provides business registration information services. Its English certificate service provides access to business registration certificates.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.dbd.go.th/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": [
+   {
+    "name": "English business registration certificate service",
+    "description": "Access the official English business certificate service and its enquiry route.",
+    "url": "https://encert.dbd.go.th/encert-inter/public/en/contact-us",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-th-customs",
+  "slug": "th-thai-customs-department",
+  "name": "Thai Customs Department",
+  "acronym": null,
+  "country": "TH",
+  "level": "national",
+  "categories": [
+   "customs"
+  ],
+  "responsibilities": "Thai Customs publishes customs procedures and regulatory information. Its website links users to electronic tariff services and customs resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.customs.go.th/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-th-revenue",
+  "slug": "th-revenue-department",
+  "name": "Revenue Department",
+  "acronym": null,
+  "country": "TH",
+  "level": "national",
+  "categories": [
+   "tax"
+  ],
+  "responsibilities": "The Revenue Department publishes tax information for individuals and businesses. Its English website includes international tax resources and tax return forms.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.rd.go.th/english/index-eng.html",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-th-tisi",
+  "slug": "th-tisi",
+  "name": "Thai Industrial Standards Institute",
+  "acronym": "TISI",
+  "country": "TH",
+  "level": "national",
+  "categories": [
+   "standards"
+  ],
+  "responsibilities": "TISI publishes product standards information. Its official standards database lists community product standards and related documents.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.tisi.go.th/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-th-fda",
+  "slug": "th-food-and-drug-administration-thailand",
+  "name": "Food and Drug Administration, Thailand",
+  "acronym": null,
+  "country": "TH",
+  "level": "national",
+  "categories": [
+   "food_biosecurity"
+  ],
+  "responsibilities": "Thai FDA protects public health through regulation of products within its remit, including food. It develops and enforces systems supporting product safety and quality.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://en.fda.moph.go.th/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-th-dip",
+  "slug": "th-department-of-intellectual-property",
+  "name": "Department of Intellectual Property",
+  "acronym": null,
+  "country": "TH",
+  "level": "national",
+  "categories": [
+   "intellectual_property"
+  ],
+  "responsibilities": "The department publishes intellectual property information and registration resources. Its website provides access to trade mark, patent and related services.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.ipthailand.go.th/th/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-th-dip-nonthaburi",
+    "name": "Department of Intellectual Property, Nonthaburi",
+    "city": "Nonthaburi",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "email",
+      "label": "Official correspondence",
+      "value": "saraban@ipthailand.go.th"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-th-labour",
+  "slug": "th-ministry-of-labour",
+  "name": "Ministry of Labour",
+  "acronym": null,
+  "country": "TH",
+  "level": "national",
+  "categories": [
+   "employment"
+  ],
+  "responsibilities": "The ministry publishes labour policy, skills development and worker protection information. Its website provides resources and links to labour services.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.mol.go.th/en",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-th-courts",
+  "slug": "th-court-of-justice",
+  "name": "Court of Justice",
+  "acronym": null,
+  "country": "TH",
+  "level": "national",
+  "categories": [
+   "dispute_resolution"
+  ],
+  "responsibilities": "The Court of Justice publishes information about Thailand court administration and judicial services. Its website provides court forms and links to case and judgment resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.coj.go.th/th/page/item/index/id/2",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-th-tat",
+  "slug": "th-tat",
+  "name": "Tourism Authority of Thailand",
+  "acronym": "TAT",
+  "country": "TH",
+  "level": "national",
+  "categories": [
+   "tourism"
+  ],
+  "responsibilities": "TAT promotes tourism in Thailand and publishes destination information. Its website provides tourism industry news, research and business resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.tat.or.th/en",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-th-acfs",
+  "slug": "th-acfs",
+  "name": "National Bureau of Agricultural Commodity and Food Standards",
+  "acronym": "ACFS",
+  "country": "TH",
+  "level": "national",
+  "categories": [
+   "standards",
+   "food_biosecurity"
+  ],
+  "responsibilities": "ACFS publishes conformity assessment requirements for agricultural commodities and food. Its accreditation portal provides criteria for certification activities involving food safety, agricultural products and production systems.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.acfs.go.th/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-th-acfs-bangkok",
+    "name": "National Bureau of Agricultural Commodity and Food Standards, Bangkok",
+    "city": "Bangkok",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Accreditation enquiries",
+      "value": "+6625612277"
+     },
+     {
+      "channel": "email",
+      "label": "Portal feedback",
+      "value": "qss.acfs@gmail.com"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "ACFS accreditation requirements portal",
+    "description": "Official directory of accreditation criteria and supporting documents for agricultural and food certification activities.",
+    "url": "https://cabservices.acfs.go.th/Act1/Require",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-tl-serve",
+  "slug": "tl-serve-i-p",
+  "name": "Business Registration and Verification Service, I.P.",
+  "acronym": "SERVE,I.P.",
+  "country": "TL",
+  "level": "national",
+  "categories": [
+   "business_registration"
+  ],
+  "responsibilities": "SERVE maintains the business register and provides business registration services. It publishes registration procedures, forms and company information guidance.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://serve.gov.tl/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-tl-serve-dili",
+    "name": "Business Registration and Verification Service, I.P., Dili",
+    "city": "Dili",
+    "hours": "Monday to Friday 08:00 to 17:30",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Fixed line",
+      "value": "+6703110116"
+     },
+     {
+      "channel": "phone",
+      "label": "Mobile enquiries",
+      "value": "+67078122222"
+     },
+     {
+      "channel": "email",
+      "label": "General enquiries",
+      "value": "info@serve.gov.tl"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "Business registration forms and procedures",
+    "description": "Official registration procedures and downloadable application forms.",
+    "url": "https://serve.gov.tl/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-tl-customs",
+  "slug": "tl-timor-leste-customs-authority",
+  "name": "Timor-Leste Customs Authority",
+  "acronym": null,
+  "country": "TL",
+  "level": "national",
+  "categories": [
+   "customs"
+  ],
+  "responsibilities": "The authority controls the movement of goods and transport entering and leaving Timor-Leste. It provides customs and trade information and clearance resources.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://customs.gov.tl/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-tl-customs-dili",
+    "name": "Customs Authority, Dili Headquarters",
+    "city": "Dili",
+    "hours": "Monday to Friday 08:00 to 17:30",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Institutional relations and communications",
+      "value": "+67078110907"
+     }
+    ]
+   },
+   {
+    "id": "off-tl-customs-airport-dili",
+    "name": "Customs, Dili International Airport",
+    "city": "Dili",
+    "hours": "Monday to Friday 08:00 to 17:30",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Published customs contact",
+      "value": "+67077725551"
+     }
+    ]
+   },
+   {
+    "id": "off-tl-customs-post-dili",
+    "name": "Customs, Dili Post Office",
+    "city": "Dili",
+    "hours": "Monday to Friday 08:00 to 17:30",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Published customs contact",
+      "value": "+67078877077"
+     }
+    ]
+   },
+   {
+    "id": "off-tl-customs-tibar-tibar",
+    "name": "Customs, Tibar Bay Port",
+    "city": "Tibar",
+    "hours": "Monday to Sunday 08:00 to 17:30",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Published customs contact",
+      "value": "+67077713508"
+     }
+    ]
+   },
+   {
+    "id": "off-tl-customs-maritime-dili",
+    "name": "Customs, Dili Maritime Unit",
+    "city": "Dili",
+    "hours": "Monday to Friday 08:00 to 17:30",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Published customs contact",
+      "value": "+67077338412"
+     }
+    ]
+   },
+   {
+    "id": "off-tl-customs-batugade-batugade",
+    "name": "Customs, Batugade Border Post",
+    "city": "Batugade",
+    "hours": "Monday to Sunday 08:00 to 17:30",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Published customs contact",
+      "value": "+67077305811"
+     }
+    ]
+   },
+   {
+    "id": "off-tl-customs-maliana-maliana",
+    "name": "Customs, Maliana District",
+    "city": "Maliana",
+    "hours": "Monday to Friday 08:00 to 17:30",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Published customs contact",
+      "value": "+67077230181"
+     }
+    ]
+   },
+   {
+    "id": "off-tl-customs-suai-suai",
+    "name": "Customs, Suai District",
+    "city": "Suai",
+    "hours": "Monday to Friday 08:00 to 17:30",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Published customs contact",
+      "value": "+67077403126"
+     }
+    ]
+   },
+   {
+    "id": "off-tl-customs-baucau-baucau",
+    "name": "Customs, Baucau District",
+    "city": "Baucau",
+    "hours": "Monday to Friday 08:00 to 17:30",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Published customs contact",
+      "value": "+67078383875"
+     }
+    ]
+   },
+   {
+    "id": "off-tl-customs-oecusse-pante-macassar",
+    "name": "Customs, Oecusse Region",
+    "city": "Pante Macassar",
+    "hours": "Monday to Friday 08:00 to 17:30",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Published customs contact",
+      "value": "+67077182725"
+     }
+    ]
+   },
+   {
+    "id": "off-tl-customs-atauro-beloi",
+    "name": "Customs, Atauro Island",
+    "city": "Beloi",
+    "hours": "Monday to Friday 08:00 to 17:30",
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Published customs contact",
+      "value": "+67078668517"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "Customs Tariff Finder",
+    "description": "Search customs commodity classifications in the official tariff finder.",
+    "url": "https://customs.gov.tl/tariff-finder/",
+    "cost": null
+   },
+   {
+    "name": "ASYCUDA World",
+    "description": "Official customs clearance system referral published by the customs authority.",
+    "url": "https://asycuda.customs.gov.tl/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-tl-tax",
+  "slug": "tl-attl",
+  "name": "Autoridade Tributaria Timor-Leste",
+  "acronym": "ATTL",
+  "country": "TL",
+  "level": "national",
+  "categories": [
+   "tax"
+  ],
+  "responsibilities": "The tax authority provides domestic, petroleum and mineral tax resources. It publishes tax forms, taxpayer education and access to eTax.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://attl.gov.tl/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-tl-tax-dili",
+    "name": "Autoridade Tributaria Timor-Leste, Dili",
+    "city": "Dili",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "General information",
+      "value": "+67074962764"
+     },
+     {
+      "channel": "phone",
+      "label": "eTax support",
+      "value": "+67074962772"
+     },
+     {
+      "channel": "phone",
+      "label": "eTax support",
+      "value": "+67077305824"
+     },
+     {
+      "channel": "phone",
+      "label": "Payment adjustment",
+      "value": "+67074962776"
+     },
+     {
+      "channel": "phone",
+      "label": "Petroleum taxes",
+      "value": "+67074962773"
+     },
+     {
+      "channel": "phone",
+      "label": "Petroleum taxes",
+      "value": "+67074962781"
+     },
+     {
+      "channel": "phone",
+      "label": "Petroleum taxes",
+      "value": "+67074962792"
+     },
+     {
+      "channel": "email",
+      "label": "eTax support",
+      "value": "etax@mof.gov.tl"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "Timor-Leste eTax",
+    "description": "Official eTax login referral for taxpayers.",
+    "url": "https://e-tax.mof.gov.tl/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-tl-tradeinvest",
+  "slug": "tl-investment-and-export-promotion-agency-of-timor-leste-i-p",
+  "name": "Investment and Export Promotion Agency of Timor-Leste, I.P.",
+  "acronym": null,
+  "country": "TL",
+  "level": "national",
+  "categories": [
+   "foreign_investment",
+   "trade_export"
+  ],
+  "responsibilities": "TradeInvest facilitates investment and export development in Timor-Leste. It helps investors find business information, professional services and investment opportunities, and supports business matching and export procedures.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://timor-leste.gov.tl/?lang=en&p=13",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-tl-trade-industry",
+  "slug": "tl-ministry-of-trade-and-industry",
+  "name": "Ministry of Trade and Industry",
+  "acronym": null,
+  "country": "TL",
+  "level": "national",
+  "categories": [
+   "trade_export",
+   "industry_development",
+   "standards",
+   "intellectual_property"
+  ],
+  "responsibilities": "The ministry manages trade and industry policy. Its remit includes industrial property registration, standardisation and metrology.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://timor-leste.gov.tl/?lang=en&p=13",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-tl-agriculture",
+  "slug": "tl-ministry-of-agriculture-livestock-fisheries-and-forestry",
+  "name": "Ministry of Agriculture, Livestock, Fisheries and Forestry",
+  "acronym": null,
+  "country": "TL",
+  "level": "national",
+  "categories": [
+   "food_biosecurity"
+  ],
+  "responsibilities": "The ministry manages quarantine services. It also oversees agriculture, animal health and food production.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://timor-leste.gov.tl/?lang=en&p=13",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-tl-higher-education",
+  "slug": "tl-ministry-of-higher-education-and-science",
+  "name": "Ministry of Higher Education and Science",
+  "acronym": null,
+  "country": "TL",
+  "level": "national",
+  "categories": [
+   "education"
+  ],
+  "responsibilities": "The ministry develops higher education policy. It oversees education quality and institutional assessment.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://timor-leste.gov.tl/?lang=en&p=13",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-tl-interior",
+  "slug": "tl-ministry-of-interior",
+  "name": "Ministry of Interior",
+  "acronym": null,
+  "country": "TL",
+  "level": "national",
+  "categories": [
+   "immigration"
+  ],
+  "responsibilities": "The ministry oversees migration and border control. Its remit includes entry, stay and residence.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://timor-leste.gov.tl/?lang=en&p=13",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-tl-justice",
+  "slug": "tl-ministry-of-justice",
+  "name": "Ministry of Justice",
+  "acronym": null,
+  "country": "TL",
+  "level": "national",
+  "categories": [
+   "dispute_resolution"
+  ],
+  "responsibilities": "The ministry coordinates justice policy. It supports access to law, courts and legal aid.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.mj.gov.tl/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-tl-employment",
+  "slug": "tl-secretary-of-state-for-vocational-training-and-employment",
+  "name": "Secretary of State for Vocational Training and Employment",
+  "acronym": null,
+  "country": "TL",
+  "level": "national",
+  "categories": [
+   "employment"
+  ],
+  "responsibilities": "The secretary handles vocational training and employment. It assists the economic coordinating minister.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://timor-leste.gov.tl/?lang=en&p=13",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-tl-tourism",
+  "slug": "tl-ministry-of-tourism-and-environment",
+  "name": "Ministry of Tourism and Environment",
+  "acronym": null,
+  "country": "TL",
+  "level": "national",
+  "categories": [
+   "tourism"
+  ],
+  "responsibilities": "The ministry develops tourism policy. It licenses and supervises tourism enterprises.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://timor-leste.gov.tl/?lang=en&p=13",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-vn-industry-trade",
+  "slug": "vn-ministry-of-industry-and-trade",
+  "name": "Ministry of Industry and Trade",
+  "acronym": null,
+  "country": "VN",
+  "level": "national",
+  "categories": [
+   "trade_export",
+   "industry_development"
+  ],
+  "responsibilities": "The ministry manages industry and trade policy, including imports, exports, logistics and overseas market development. Its responsibilities also cover trade promotion, electronic commerce and trade remedies.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://moit.gov.vn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-vn-industry-trade-hanoi",
+    "name": "Ministry of Industry and Trade, Hanoi",
+    "city": "Hanoi",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "General enquiries",
+      "value": "+842422202133"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-vn-education",
+  "slug": "vn-ministry-of-education-and-training",
+  "name": "Ministry of Education and Training",
+  "acronym": null,
+  "country": "VN",
+  "level": "national",
+  "categories": [
+   "education"
+  ],
+  "responsibilities": "The ministry oversees preschool, general, vocational, higher and continuing education. It develops education policy and administers public education functions within its remit.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://moet.gov.vn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-vn-education-hanoi",
+    "name": "Ministry of Education and Training, Hanoi",
+    "city": "Hanoi",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "General enquiries",
+      "value": "+842438695144"
+     },
+     {
+      "channel": "email",
+      "label": "General enquiries",
+      "value": "bogddt@moet.gov.vn"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-vn-tax",
+  "slug": "vn-c-c-thu",
+  "name": "Cục Thuế",
+  "acronym": null,
+  "country": "VN",
+  "level": "national",
+  "categories": [
+   "tax"
+  ],
+  "responsibilities": "The department manages the national tax administration system. It coordinates tax administration through central, provincial and local units.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.gdt.gov.vn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-vn-tourism-ministry",
+  "slug": "vn-ministry-of-culture-sports-and-tourism",
+  "name": "Ministry of Culture, Sports and Tourism",
+  "acronym": null,
+  "country": "VN",
+  "level": "national",
+  "categories": [
+   "tourism"
+  ],
+  "responsibilities": "The ministry publishes tourism, culture and sports information. Its government profile links sector information, development plans and public services.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://bvhttdl.gov.vn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-vn-tourism-ministry-hanoi",
+    "name": "Ministry of Culture, Sports and Tourism, Hanoi",
+    "city": "Hanoi",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "email",
+      "label": "General enquiries",
+      "value": "bovanhoathethaodulich@chinhphu.vn"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-vn-fia",
+  "slug": "vn-c-c-u-t-n-c-ngo-i",
+  "name": "Cục Đầu tư nước ngoài",
+  "acronym": null,
+  "country": "VN",
+  "level": "national",
+  "categories": [
+   "foreign_investment"
+  ],
+  "responsibilities": "The agency advises the Ministry of Finance on foreign investment and investment promotion. Its published responsibilities include inward and outward investment policy, investor support and policy coordination.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://fia.mof.gov.vn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-vn-business-registration-department",
+  "slug": "vn-c-c-ph-t-tri-n-doanh-nghi-p-t-nh-n-v-kinh-t-t-p-th",
+  "name": "Cục Phát triển doanh nghiệp tư nhân và kinh tế tập thể",
+  "acronym": null,
+  "country": "VN",
+  "level": "national",
+  "categories": [
+   "business_registration"
+  ],
+  "responsibilities": "The department publishes business registration information through the national registration portal. The portal links online registration, enterprise information and electronic notices.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://dangkykinhdoanh.gov.vn/vn/Pages/Trangchu.aspx",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-vn-business-registration-department-hanoi",
+    "name": "Cục Phát triển doanh nghiệp tư nhân và kinh tế tập thể, Hanoi",
+    "city": "Hanoi",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "Online business registration support",
+      "value": "+842438489912"
+     },
+     {
+      "channel": "email",
+      "label": "Enterprise information and notices",
+      "value": "dichvuthongtin@dangkykinhdoanh.gov.vn"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "Online enterprise registration",
+    "description": "Official portal link for online enterprise registration.",
+    "url": "https://dangkyquamang.dkkd.gov.vn/",
+    "cost": null
+   },
+   {
+    "name": "Enterprise information service",
+    "description": "Official enterprise information service linked from the national registration portal.",
+    "url": "https://dichvuthongtin.dkkd.gov.vn/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-vn-most",
+  "slug": "vn-mst",
+  "name": "Ministry of Science and Technology",
+  "acronym": "MST",
+  "country": "VN",
+  "level": "national",
+  "categories": [
+   "standards",
+   "industry_development"
+  ],
+  "responsibilities": "The ministry manages standards, metrology and product quality at national level. It also develops science, technology and innovation policy and supports technological development in enterprises.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://mst.gov.vn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-vn-ip-office",
+  "slug": "vn-c-c-s-h-u-tr-tu",
+  "name": "Cục Sở hữu trí tuệ",
+  "acronym": null,
+  "country": "VN",
+  "level": "national",
+  "categories": [
+   "intellectual_property"
+  ],
+  "responsibilities": "The office advises the ministry on intellectual property management. It administers industrial property activities and publishes an official contact route for enquiries.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.ipvietnam.gov.vn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-vn-ip-office-hanoi",
+    "name": "Cục Sở hữu trí tuệ, Hanoi",
+    "city": "Hanoi",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "phone",
+      "label": "General enquiries",
+      "value": "+842438583069"
+     },
+     {
+      "channel": "email",
+      "label": "General enquiries",
+      "value": "vietnamipo@ipvietnam.gov.vn"
+     }
+    ]
+   }
+  ],
+  "services": []
+ },
+ {
+  "id": "agy-vn-immigration",
+  "slug": "vn-vietnam-immigration-department",
+  "name": "Vietnam Immigration Department",
+  "acronym": null,
+  "country": "VN",
+  "level": "national",
+  "categories": [
+   "immigration"
+  ],
+  "responsibilities": "The department publishes immigration and visa services for foreign nationals. Its portal directs applicants to the current eVisa domains for applications and results.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://immigration.gov.vn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [
+   {
+    "id": "off-vn-immigration-hanoi",
+    "name": "Vietnam Immigration Department, Hanoi",
+    "city": "Hanoi",
+    "hours": null,
+    "contacts": [
+     {
+      "channel": "url",
+      "label": "Official website fallback",
+      "value": "https://immigration.gov.vn/"
+     }
+    ]
+   }
+  ],
+  "services": [
+   {
+    "name": "Vietnam eVisa portal",
+    "description": "Official referral for electronic entry visa applications and checking results. This listing does not establish a work visa or work permission service.",
+    "url": "https://evisa.gov.vn/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-vn-home-affairs",
+  "slug": "vn-ministry-of-home-affairs",
+  "name": "Ministry of Home Affairs",
+  "acronym": null,
+  "country": "VN",
+  "level": "national",
+  "categories": [
+   "employment"
+  ],
+  "responsibilities": "The ministry operates the National Employment Exchange. This platform connects workers, businesses, employment service organisations and government agencies.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://moha.gov.vn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ },
+ {
+  "id": "agy-vn-food-administration",
+  "slug": "vn-c-c-an-to-n-th-c-ph-m",
+  "name": "Cục An toàn thực phẩm",
+  "acronym": null,
+  "country": "VN",
+  "level": "national",
+  "categories": [
+   "food_biosecurity"
+  ],
+  "responsibilities": "The administration handles food safety procedures within the health ministry. It provides online application routes for specified food products, advertising and food safety certificates.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://vfa.gov.vn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": [
+   {
+    "name": "Ministry of Health food safety online procedures",
+    "description": "Official referral for the food safety procedures described by the health ministry.",
+    "url": "https://dichvucong.moh.gov.vn/",
+    "cost": null
+   }
+  ]
+ },
+ {
+  "id": "agy-vn-customs",
+  "slug": "vn-c-c-h-i-quan",
+  "name": "Cục Hải quan",
+  "acronym": null,
+  "country": "VN",
+  "level": "national",
+  "categories": [
+   "customs"
+  ],
+  "responsibilities": "The department administers the national customs organisation. Its published structure includes customs supervision, customs tax operations, risk management and post-clearance inspection.",
+  "whenToContact": null,
+  "scope": null,
+  "website": "https://www.customs.gov.vn/",
+  "lastVerified": "2026-11-02",
+  "status": "published",
+  "offices": [],
+  "services": []
+ }
+]

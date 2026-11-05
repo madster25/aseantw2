@@ -1,0 +1,1400 @@
+{
+  "agy-bn-bedb": {
+    "responsibilities": "BEDB負責吸引及協助投資，並支持企業發展。該局提供企業支援、工業用地資訊及市場進入資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "汶萊經濟發展局（斯里巴加灣市）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-bn-meti": {
+    "responsibilities": "該部支持經濟成長以及貿易與產業發展。其組織架構涵蓋貿易便捷化與市場進入事務，並連結產業、投資及初級資源相關機關。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-bn-standards-accreditation": {
+    "responsibilities": "該中心支持汶萊達魯薩蘭國的標準與認證工作。所屬部會公布其實驗室評審員培育活動的相關資訊。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-bn-rocbn": {
+    "responsibilities": "該登記處提供公司設立登記及商業名稱登記服務。企業可透過One Common Portal線上提交登記申請及佐證文件。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "One Common Portal商業登記",
+        "description": "政府官方提供的線上公司設立及商業登記入口連結。"
+      }
+    ],
+    "offices": []
+  },
+  "agy-bn-customs": {
+    "responsibilities": "該署提供進出口相關的海關資訊。其官方網頁連結關稅指引、海關程序及國家單一窗口。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "汶萊達魯薩蘭國國家單一窗口",
+        "description": "部會網站公布的官方國家單一窗口連結。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "皇家關稅與消費稅署（柏拉卡斯）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-bn-revenue": {
+    "responsibilities": "該司提供稅務資訊及納稅人服務。所屬部會公布所得稅、扣繳稅、印花稅及國際稅務相關資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "財政部稅務司（斯里巴加灣市）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-bn-bdfa": {
+    "responsibilities": "該局提供食品進出口資訊及食品業者服務。其網站公布許可證、食品從業人員訓練及食品安全相關資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "汶萊達魯薩蘭國食品管理局（斯里巴加灣市）",
+        "hours": "週一至週五 08:00–17:00"
+      }
+    ]
+  },
+  "agy-bn-bruipo": {
+    "responsibilities": "BruIPO負責商標、專利、工業設計及植物品種的註冊與管理，並提供著作權及智慧財產權執法的相關指引。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "汶萊智慧財產局（斯里巴加灣市）",
+        "hours": "週一至週四及週六 07:45–12:15、13:30–16:30"
+      }
+    ]
+  },
+  "agy-bn-education": {
+    "responsibilities": "該部主管學校教育及高等教育事務。其組織架構包含課程、考試、私立教育、高等教育及教育認證等單位。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-bn-immigration": {
+    "responsibilities": "該署負責移民及國民登記事務。政府商業指南將外籍勞工簽證及工作准證申請指引至該署辦理。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-bn-manpower-employment": {
+    "responsibilities": "該署是列於內政部之下的政府就業事務聯絡單位。政府商業指南指引雇主向勞工部門辦理外籍勞工許可。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-bn-judiciary": {
+    "responsibilities": "司法機關提供解決爭議的法院服務。官方商業入口網站引導使用者查閱其小額索償、商業法庭及電子遞狀資訊。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-bn-tourism": {
+    "responsibilities": "該局是部會所列的觀光發展機關。部會公布其官方網站作為取得觀光資訊的途徑。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-id-immigration": {
+    "responsibilities": "該總局提供簽證申請及居留許可服務。其官方eVisa手冊說明帳號建立、申請提交及電子簽證取得方式。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "印尼eVisa電子簽證",
+        "description": "政府eVisa手冊所載的官方電子簽證申請入口。"
+      }
+    ],
+    "offices": []
+  },
+  "agy-id-bsn": {
+    "responsibilities": "BSN制定產品、流程及系統的國家標準。其工作支持商品與服務的品質、安全及相容性。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-id-trade": {
+    "responsibilities": "該部公布印尼貿易相關資訊及公共服務。其服務包含對外貿易指引及貿易相關的企業支援。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-id-bkpm": {
+    "responsibilities": "該部提供印尼投資資訊及諮詢服務。其網站連結投資人至Online Single Submission（OSS）營業許可系統。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "Online Single Submission（OSS）營業許可",
+        "description": "進入投資部所連結的營業許可系統。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "投資暨下游產業部／BKPM（雅加達）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-id-ahu": {
+    "responsibilities": "該總局負責印尼法律部轄下的線上法律服務。AHU Online包含公司、商業實體及實質受益人相關服務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "AHU Online公司服務",
+        "description": "進入公司及商業實體行政服務的官方選單。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "一般法律行政總局（南雅加達）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-id-customs": {
+    "responsibilities": "該總局提供海關及消費稅資訊與服務。其網站公布關稅、海關登記及進口限制相關資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-id-tax": {
+    "responsibilities": "該總局提供納稅人資訊及稅務行政資源。其網站連結使用者至Coretax帳號及申報指引。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-id-bpom": {
+    "responsibilities": "BPOM公布藥品及食品的法規資訊。其網站提供公共服務資訊及產品相關公告。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-id-quarantine": {
+    "responsibilities": "該局提供動物、魚類及植物檢疫服務資訊。其線上資源包含檢疫申請及進口事先通報。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "進口事先通報",
+        "description": "進入檢疫局所連結的進口事先通報系統。"
+      },
+      {
+        "name": "PTK Online檢疫申請",
+        "description": "使用線上檢疫登記及申請服務。"
+      }
+    ],
+    "offices": []
+  },
+  "agy-id-dgip": {
+    "responsibilities": "該總局提供印尼智慧財產權的註冊及檢索服務。其網站支援商標、專利、設計及著作權相關查詢。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "線上商標申請",
+        "description": "進入該總局所連結的商標申請入口。"
+      },
+      {
+        "name": "線上專利申請",
+        "description": "進入該總局所連結的專利申請入口。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "智慧財產總局（南雅加達）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-id-labour": {
+    "responsibilities": "該部公布就業、訓練及勞工保護資訊。其服務包含勞動力申報及勞工相關查詢的支援。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-id-higher-education": {
+    "responsibilities": "該部公布高等教育、科學及研究資訊。其公共服務資源包含高等教育資料及指引。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "印尼共和國高等教育、科學暨科技部（雅加達）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-id-supreme-court": {
+    "responsibilities": "最高法院公布法院判決及司法資訊。其網站連結使用者至案件資訊及e-Court服務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "e-Court電子法院",
+        "description": "進入最高法院所連結的法院電子服務。"
+      }
+    ],
+    "offices": []
+  },
+  "agy-id-tourism": {
+    "responsibilities": "該部公布觀光政策及產業資訊。其網站提供觀光新聞、統計資料及公共服務連結。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-kh-tourism-training": {
+    "responsibilities": "該司負責觀光專業人員的登記、訓練、評量及認證，制定餐旅業人力標準，並管理專業訓練資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-kh-commerce": {
+    "responsibilities": "商業部負責柬埔寨企業設立程序中的商業登記事務。政府官方指引引導企業依其登記程序辦理。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "One Portal商業登記",
+        "description": "進入KHMERSME所連結的政府商業登記平台。"
+      }
+    ],
+    "offices": []
+  },
+  "agy-kh-cdc": {
+    "responsibilities": "CDC提供在柬埔寨投資的資訊及服務。其網站公布投資資源及線上投資專案管理服務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "投資專案管理",
+        "description": "進入CDC所連結的投資專案管理系統。"
+      }
+    ],
+    "offices": []
+  },
+  "agy-kh-customs": {
+    "responsibilities": "該總署公布海關程序及法規資源。其網站提供海關使用者所需的公告及資訊。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-kh-tax": {
+    "responsibilities": "該總署公布柬埔寨稅務資訊及法規。其網站提供納稅人公告及稅務服務連結。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-kh-standards": {
+    "responsibilities": "該院受理柬埔寨標準認證標誌的相關申請。政府許可指引將其列為相關產品認證許可的聯絡單位。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "柬埔寨標準院（金邊）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-kh-agriculture": {
+    "responsibilities": "該部公布農業、林業及漁業資訊。其網站提供公共許可資源的取得途徑。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-kh-commerce-ip": {
+    "responsibilities": "該司受理商標註冊申請。政府官方商業指引引導申請人向該司或各省商業辦事處提出申請。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-kh-labour": {
+    "responsibilities": "該部負責政府商業指引所列的勞動法規遵循檢查。其官方網站公布勞工及職業訓練公共服務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-kh-nadr": {
+    "responsibilities": "該機構公布柬埔寨替代性爭議解決機制的相關資訊。其官方網站提供其服務的公告及資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-la-tax": {
+    "responsibilities": "該司負責稅收管理及納稅人服務，開發稅收資訊系統（Tax Revenue Information System），並支援使用該系統的稅務人員。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-la-education": {
+    "responsibilities": "該部公布教育策略及政策。其官方數位教育策略載明數位學習及教育發展的規劃。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-la-moic": {
+    "responsibilities": "該部提供商業登記、對外貿易及企業支援資訊。其部門架構涵蓋貿易、智慧財產權、標準及製造業等職能。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "工業暨商業部（永珍）",
+        "hours": "週一至週五 08:00–12:00、13:00–16:00"
+      },
+      {
+        "name": "工業暨商業部班法伊（Ban Fai）辦事處",
+        "hours": "週一至週五 08:00–12:00、13:00–16:00"
+      }
+    ]
+  },
+  "agy-la-ipmc": {
+    "responsibilities": "該委員會公布投資機會及在寮國設立投資專案的指引。其網站提供一站式服務資訊、申請表格及投資資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "投資申請表格及指引",
+        "description": "提供申請表格及一站式服務指引的官方投資入口網站。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "投資促進暨管理委員會（永珍）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-la-foreign-trade": {
+    "responsibilities": "該司發布寮國貿易入口網站，提供進出口資訊。該入口網站協助貿易業者查詢關稅、程序、法規及貿易要求。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "寮國貿易資訊入口網站",
+        "description": "檢索官方進出口資訊，包含商品關稅及程序。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "對外貿易司（永珍）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-la-customs": {
+    "responsibilities": "該署管制進出寮國的貨物，防堵違禁品入境並徵收關稅。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-la-standards-metrology": {
+    "responsibilities": "該司為國家技術性貿易障礙（TBT）查詢點，解答有關產品標準、技術法規及符合性評鑑的問題。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "標準化暨計量司（永珍）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-la-ip": {
+    "responsibilities": "該司負責寮國智慧財產權的註冊及保護。其職權涵蓋商標、專利、著作權、工業設計及地理標示。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-la-food-drugs": {
+    "responsibilities": "該司負責衛生部轄下的產品登記及進口許可事務。官方貿易入口網站將補充性食品的進口查詢指引至該司。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-la-consular": {
+    "responsibilities": "該部透過線上簽證服務核發寮國eVisa核准函。領務司公布此項程序的服務資訊及休假日期。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "寮國觀光eVisa申請及進度查詢服務",
+        "description": "官方觀光電子簽證申請及進度查詢服務。公布的條款限定此服務僅適用於觀光簽證，並禁止在停留期間從事有酬或無酬工作。"
+      }
+    ],
+    "offices": []
+  },
+  "agy-la-ipmc-office": {
+    "responsibilities": "該辦公室為委員會秘書處及投資一站式服務辦公室，負責協調投資提案、特許權及管制行業申請、投資人問題及經濟特區發展。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-la-enterprise-management": {
+    "responsibilities": "該司負責工業暨商業部職權範圍內企業的登記、許可及法規遵循管理。其職能包含登記變更、許可紀錄及許可條件的監督。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-mm-labour": {
+    "responsibilities": "該部主管勞工事務並公布就業資源。其政府目錄條目連結勞工司及國家就業網站。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-mm-commerce": {
+    "responsibilities": "該部公布貿易資訊及進出口公告。其網站引導企業使用貿易服務及法規資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-mm-dica": {
+    "responsibilities": "DICA負責公司登記，並提供投資便捷化服務及指引。其所屬各處評估投資提案，並協助緬甸投資委員會及投資人處理取得許可後的事務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "Myanmar Companies Online（緬甸公司線上系統）",
+        "description": "公司登記、申報、公司查詢及官方文件取得。"
+      },
+      {
+        "name": "投資監測系統",
+        "description": "DICA連結的官方投資監測系統，適用於其支援的取得許可後程序。"
+      },
+      {
+        "name": "投資公司簽證延期推薦",
+        "description": "DICA官方簽證延期推薦入口連結。此服務本身不核發簽證或工作許可。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "投資暨公司管理局（仰光）",
+        "hours": "週一至週五 09:30–16:30"
+      }
+    ]
+  },
+  "agy-mm-customs": {
+    "responsibilities": "該署公布海關公告及邊境貿易資訊。官方貿易入口網站將其列為海關法規及程序的主管機關。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-mm-ird": {
+    "responsibilities": "該署公布稅務資訊及納稅人公告。其網站提供稅務資源及電子稅務服務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-mm-nsqd": {
+    "responsibilities": "該司支持國家標準及品質基礎建設。其國家驗證機構為製造商及進口商提供產品驗證服務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-mm-ipd": {
+    "responsibilities": "該司公布專利、工業設計、商標、地理標示及著作權資訊，並提供智慧財產權檢索、申請及預約的線上連結。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "智慧財產權電子申請資訊",
+        "description": "智慧財產司所連結的官方電子申請資訊頁面。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "智慧財產司（奈比多）",
+        "hours": null
+      },
+      {
+        "name": "智慧財產司（仰光）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-mm-education": {
+    "responsibilities": "該部公布教育政策以及學校與高等教育資訊。其網站提供教育公告及機構資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-mm-supreme-court": {
+    "responsibilities": "該院公布司法資訊及資源。其網站連結法院資訊及國家司法體系內的其他法院。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-mm-tourism": {
+    "responsibilities": "該部公布觀光資訊及觀光業者指引，並提供觀光法規、產業資源及旅客資訊的連結。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-mm-mic": {
+    "responsibilities": "MIC負責促進及便捷投資，並協調投資事務。在其公布的職權範圍內核發投資通知、許可及背書。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "MIC許可申請指南",
+        "description": "須取得MIC許可的專案的官方流程指南。此為指引文件，並非經身分驗證的線上申請系統。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "透過DICA聯繫MIC的諮詢窗口（仰光）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-my-immigration": {
+    "responsibilities": "該局核發外國人入境馬來西亞的簽證、准證及許可，管理經授權出入境口岸的人員進出，並提供外籍專業人士及學生准證業務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-my-maqis": {
+    "responsibilities": "MAQIS負責農產品進口許可、檢疫及檢驗服務，並公布動物、植物、魚類及相關進口程序的指引。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "MAQIS SPEED登記",
+        "description": "供進口商、出口商及貿易代理人使用的官方登記連結。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "馬來西亞檢疫暨檢驗服務局（布城）",
+        "hours": "週一至週五 09:00–18:00"
+      }
+    ]
+  },
+  "agy-my-human-resources": {
+    "responsibilities": "該部制定勞工及就業政策與技能計畫。其職責包含職場安全、勞資關係、勞動市場資訊及社會保障。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "人力資源部（布城）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-my-mida": {
+    "responsibilities": "MIDA提供在馬來西亞投資的資訊及協助。其網站公布產業資源、投資人指引及電子服務連結。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-my-matrade": {
+    "responsibilities": "MATRADE推廣馬來西亞出口，並協助企業進入國際市場，從事貿易推廣及市場研究活動。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-my-ssm": {
+    "responsibilities": "SSM提供公司及商業登記服務。其網站公布登記指南及企業法規遵循資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-my-customs": {
+    "responsibilities": "該局透過官方入口網站公布馬來西亞海關資訊。其目前詳細的服務範圍無法自所擷取的首頁讀取。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-my-hasil": {
+    "responsibilities": "該局公布馬來西亞稅務資訊及納稅人資源。其官方網站包含公司稅及國際稅務指引。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-my-standards": {
+    "responsibilities": "該局提供馬來西亞標準及標準化活動的資訊。其網站連結使用者至標準購買及登記系統。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-my-myipo": {
+    "responsibilities": "MyIPO公布專利、商標、著作權及設計相關資訊。其官方網站提供在馬來西亞保護智慧財產權的資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-my-higher-education": {
+    "responsibilities": "該部公布高等教育資訊及公共服務資源。其網站涵蓋入學、獎學金及研究支援。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-my-judiciary": {
+    "responsibilities": "該辦公室公布馬來西亞聯邦及州法院的資訊。其網站連結使用者至法院資源及電子司法服務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "e-Kehakiman電子司法系統",
+        "description": "進入官方法院入口網站所連結的電子司法系統。"
+      }
+    ],
+    "offices": []
+  },
+  "agy-my-tourism": {
+    "responsibilities": "馬來西亞觀光局推廣馬來西亞作為旅遊目的地。其機關網站提供觀光產業資源及推廣計畫資訊。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-my-food-safety-quality": {
+    "responsibilities": "該計畫負責食品安全及品質的監管與監測，包含輸入馬來西亞的食品，並提供食品業驗證以及食品標準、標示及衛生方面的指引。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "馬來西亞衛生部食品安全暨品質計畫（布城）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-my-agriculture": {
+    "responsibilities": "該局提供農業諮詢、技術支援及發展服務，並透過植物保護及生物安全服務保護作物免受病蟲害。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "馬來西亞農業局（布城）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-my-veterinary": {
+    "responsibilities": "該局協調動物疾病防治及獸醫生物安全。其公布的職能包含獸醫檢查、動物產品安全以及動物進出口管制。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "馬來西亞獸醫服務局（布城）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-my-fisheries-biosecurity": {
+    "responsibilities": "該處制定漁業生物安全及水生動物健康政策，並協調魚類及漁產品的健康監測、食品安全監控及出口驗證程序。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "馬來西亞漁業局漁業生物安全處（布城）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-ph-boi": {
+    "responsibilities": "BOI與其他政府機關共同制定策略性投資優先項目，為符合國家產業發展目標的專案提供投資政策途徑。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-ph-fda": {
+    "responsibilities": "FDA負責監管加工食品及健康產品。官方海關指引將其列為相關進口商許可及產品登記的主管機關。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-ph-ched": {
+    "responsibilities": "CHED制定高等教育計畫及政策，監督大專及研究所教育，並公布機構及學程資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-ph-dti": {
+    "responsibilities": "DTI提供貿易、產業及企業發展資訊。其網站連結使用者至線上商業服務及貿易資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "DTI線上服務",
+        "description": "進入DTI官方線上服務入口。"
+      }
+    ],
+    "offices": []
+  },
+  "agy-ph-sec": {
+    "responsibilities": "SEC監督公司部門及證券市場。其職權包含證券市場參與者的登記及監管。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-ph-customs": {
+    "responsibilities": "海關署負責菲律賓的海關事務。其政府機關簡介說明稅收徵收及邊境相關職責。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-ph-bir": {
+    "responsibilities": "BIR負責國家內地稅的管理。其職責包含內地稅制度下的核定、徵收及執行。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-ph-bps": {
+    "responsibilities": "BPS提供標準制定及產品符合性資訊。其網站列出標準資源、檢測實驗室及驗證相關指引。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-ph-ipophl": {
+    "responsibilities": "IPOPHL提供智慧財產權的資訊及線上服務。其資源涵蓋專利、商標、設計及相關檢索。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-ph-immigration": {
+    "responsibilities": "該署公布移民、簽證及外國人登記資訊。其網站提供電子移民服務及簽證狀態查詢資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "移民署eServices電子服務",
+        "description": "使用所支援的移民電子交易及狀態查詢服務。"
+      }
+    ],
+    "offices": []
+  },
+  "agy-ph-supreme-court": {
+    "responsibilities": "最高法院透過其電子圖書館公布法律及法院資訊。該圖書館提供法院規則、法規及司法資料。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-ph-peza": {
+    "responsibilities": "PEZA透過菲律賓經濟特區制度促進投資。其官方出版品說明對在經濟特區設立、擴充或多元化營運的投資人所提供的支援。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-sg-enterprise": {
+    "responsibilities": "新加坡企業發展局支持企業成長、創新及國際市場連結。其網站提供品質與標準資源，以及與新加坡合作的企業所需資訊。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-sg-edb": {
+    "responsibilities": "EDB制定策略，支持新加坡作為企業、創新及人才的據點，並為投資人及企業提供公開諮詢管道。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "新加坡經濟發展局（新加坡）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-sg-acra": {
+    "responsibilities": "ACRA提供商業登記、申報及公司資訊服務。其Bizfile入口網站支援線上交易，服務櫃檯諮詢則須預約。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "Bizfile登記及申報",
+        "description": "使用商業登記、申報及資訊服務。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "會計與企業管制局（新加坡）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-sg-customs": {
+    "responsibilities": "新加坡關稅局提供海關登記、許可證以及進口、出口及轉運程序的資訊。其線上資源說明關稅、GST及許可要求。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "新加坡關稅局eServices電子服務",
+        "description": "進入關稅局官方線上服務目錄。"
+      }
+    ],
+    "offices": []
+  },
+  "agy-sg-iras": {
+    "responsibilities": "IRAS提供新加坡稅務及稅務遵循的資訊。其網站為納稅人提供申報、繳納及myTax Portal的指引。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-sg-sfa": {
+    "responsibilities": "SFA提供食品進出口要求及許可資訊，並公布食品標示指引以及供應新加坡的海外業者應符合的要求。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "新加坡食品局（新加坡）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-sg-ipos": {
+    "responsibilities": "IPOS提供智慧財產權註冊及管理的資訊與服務，並公布解決智慧財產權爭議的資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "IPOS Digital Hub",
+        "description": "註冊、檢索、延展及管理所支援的智慧財產權。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "新加坡智慧財產局（新加坡）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-sg-mom": {
+    "responsibilities": "MOM提供工作准證服務以及僱用條件與職場安全資訊。其資源說明外籍人力要求及就業權益。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "人力部服務中心",
+        "hours": null
+      }
+    ]
+  },
+  "agy-sg-ica": {
+    "responsibilities": "ICA公布新加坡的入境、簽證及移民程序，並提供永久居留、訪問准證及學生准證的資訊與線上服務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-sg-moe": {
+    "responsibilities": "教育部主管新加坡的教育服務。其官方目錄列出教育行政及公眾諮詢管道。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "教育部（新加坡）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-sg-courts": {
+    "responsibilities": "新加坡法院公布民事及商事法院事務的指引，並說明審判以外的替代方案，包含調解、和解及中立評估。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-sg-stb": {
+    "responsibilities": "新加坡旅遊局公布觀光產業資訊。其官方網站為觀光業者及旅客提供資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-th-education": {
+    "responsibilities": "該部公布國家教育政策及實施指引。其政策資源涵蓋教育品質、就學機會及學習發展。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-th-immigration": {
+    "responsibilities": "該局負責臨時停留及移民事務。官方政府入口網站說明其適用於特定類別的電子延期服務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-th-ditp": {
+    "responsibilities": "DITP提供國際貿易的資訊及支援。其服務包含市場資訊、出口訓練及貿易相關諮詢。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-th-boi": {
+    "responsibilities": "BOI提供投資促進資訊及投資人諮詢服務。其公布的聯絡管道涵蓋擬議投資、受促進專案及外籍專家優惠。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "泰國投資促進委員會（曼谷）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-th-dbd": {
+    "responsibilities": "DBD提供商業登記資訊服務。其英文證明書服務提供商業登記證明書的取得途徑。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "英文商業登記證明書服務",
+        "description": "進入官方英文商業證明書服務及其諮詢管道。"
+      }
+    ],
+    "offices": []
+  },
+  "agy-th-customs": {
+    "responsibilities": "泰國海關公布海關程序及法規資訊。其網站連結使用者至電子關稅服務及海關資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-th-revenue": {
+    "responsibilities": "稅務局公布個人及企業的稅務資訊。其英文網站包含國際稅務資源及報稅表格。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-th-tisi": {
+    "responsibilities": "TISI公布產品標準資訊。其官方標準資料庫列出社區產品標準及相關文件。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-th-fda": {
+    "responsibilities": "泰國FDA透過監管其職權範圍內的產品（包含食品）保護公眾健康，並建立及執行支持產品安全與品質的制度。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-th-dip": {
+    "responsibilities": "該司公布智慧財產權資訊及註冊資源。其網站提供商標、專利及相關服務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "智慧財產司（暖武里）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-th-labour": {
+    "responsibilities": "該部公布勞工政策、技能發展及勞工保護資訊。其網站提供資源及勞工服務連結。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-th-courts": {
+    "responsibilities": "司法法院公布泰國法院行政及司法服務的資訊。其網站提供法院表格以及案件與判決資源的連結。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-th-tat": {
+    "responsibilities": "TAT推廣泰國觀光並公布目的地資訊。其網站提供觀光產業新聞、研究及商業資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-th-acfs": {
+    "responsibilities": "ACFS公布農產品及食品的符合性評鑑要求。其認證入口網站提供涉及食品安全、農產品及生產系統的驗證活動準則。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "ACFS認證要求入口網站",
+        "description": "農業及食品驗證活動的認證準則及佐證文件的官方目錄。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "國家農產品暨食品標準局（曼谷）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-tl-serve": {
+    "responsibilities": "SERVE維護商業登記簿並提供商業登記服務，公布登記程序、表格及公司資訊指引。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "商業登記表格及程序",
+        "description": "官方登記程序及可下載的申請表格。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "商業登記暨查驗服務處 I.P.（帝力）",
+        "hours": "週一至週五 08:00–17:30"
+      }
+    ]
+  },
+  "agy-tl-customs": {
+    "responsibilities": "該局管制進出東帝汶的貨物及運輸工具，並提供海關與貿易資訊及通關資源。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "關稅稅則查詢工具（Customs Tariff Finder）",
+        "description": "在官方稅則查詢工具中檢索海關商品分類。"
+      },
+      {
+        "name": "ASYCUDA World",
+        "description": "海關當局公布的官方通關系統連結。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "海關總局總部（帝力）",
+        "hours": "週一至週五 08:00–17:30"
+      },
+      {
+        "name": "海關帝力國際機場辦事處",
+        "hours": "週一至週五 08:00–17:30"
+      },
+      {
+        "name": "海關帝力郵局辦事處",
+        "hours": "週一至週五 08:00–17:30"
+      },
+      {
+        "name": "海關提巴灣港辦事處",
+        "hours": "週一至週日 08:00–17:30"
+      },
+      {
+        "name": "海關帝力海事單位",
+        "hours": "週一至週五 08:00–17:30"
+      },
+      {
+        "name": "海關巴圖加德邊境站",
+        "hours": "週一至週日 08:00–17:30"
+      },
+      {
+        "name": "海關馬利亞納縣辦事處",
+        "hours": "週一至週五 08:00–17:30"
+      },
+      {
+        "name": "海關蘇艾縣辦事處",
+        "hours": "週一至週五 08:00–17:30"
+      },
+      {
+        "name": "海關包考縣辦事處",
+        "hours": "週一至週五 08:00–17:30"
+      },
+      {
+        "name": "海關歐庫西地區辦事處",
+        "hours": "週一至週五 08:00–17:30"
+      },
+      {
+        "name": "海關阿陶羅島辦事處",
+        "hours": "週一至週五 08:00–17:30"
+      }
+    ]
+  },
+  "agy-tl-tax": {
+    "responsibilities": "稅務局提供國內稅、石油稅及礦產稅資源，並公布稅務表格、納稅人教育資料及eTax使用途徑。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "東帝汶eTax電子稅務",
+        "description": "供納稅人使用的官方eTax登入連結。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "東帝汶稅務局（帝力）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-tl-tradeinvest": {
+    "responsibilities": "TradeInvest負責促進東帝汶的投資及出口發展，協助投資人取得商業資訊、專業服務及投資機會，並支援商業配對及出口程序。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-tl-trade-industry": {
+    "responsibilities": "該部管理貿易及產業政策。其職權包含工業財產權登記、標準化及計量。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-tl-agriculture": {
+    "responsibilities": "該部管理檢疫服務，並主管農業、動物衛生及糧食生產。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-tl-higher-education": {
+    "responsibilities": "該部制定高等教育政策，並監督教育品質及機構評鑑。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-tl-interior": {
+    "responsibilities": "該部主管移民及邊境管制。其職權包含入境、停留及居留事務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-tl-justice": {
+    "responsibilities": "該部協調司法政策，支持民眾取得法律、法院及法律扶助服務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-tl-employment": {
+    "responsibilities": "該國務秘書處負責職業訓練及就業事務，並協助經濟事務協調部長。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-tl-tourism": {
+    "responsibilities": "該部制定觀光政策，並負責觀光業者的許可及監督。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-vn-industry-trade": {
+    "responsibilities": "該部管理工業及貿易政策，包含進口、出口、物流及海外市場開發。其職責亦涵蓋貿易推廣、電子商務及貿易救濟。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "工業暨貿易部（河內）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-vn-education": {
+    "responsibilities": "該部主管幼兒教育、普通教育、職業教育、高等教育及繼續教育，制定教育政策並管理其職權範圍內的公共教育事務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "教育暨培訓部（河內）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-vn-tax": {
+    "responsibilities": "該局管理國家稅務行政體系，透過中央、省級及地方單位協調稅務行政。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-vn-tourism-ministry": {
+    "responsibilities": "該部公布觀光、文化及體育資訊。其政府簡介連結產業資訊、發展計畫及公共服務。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "文化、體育暨觀光部（河內）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-vn-fia": {
+    "responsibilities": "該局就外國投資及投資促進事務向財政部提供建議。其公布的職責包含對內及對外投資政策、投資人支援及政策協調。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-vn-business-registration-department": {
+    "responsibilities": "該局透過國家登記入口網站公布商業登記資訊。該入口網站連結線上登記、企業資訊及電子公告。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "線上企業登記",
+        "description": "線上企業登記的官方入口網站連結。"
+      },
+      {
+        "name": "企業資訊服務",
+        "description": "自國家登記入口網站連結的官方企業資訊服務。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "民營企業暨集體經濟發展局（河內）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-vn-most": {
+    "responsibilities": "該部在國家層級管理標準、計量及產品品質，並制定科學、技術及創新政策，支持企業的技術發展。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-vn-ip-office": {
+    "responsibilities": "該局就智慧財產權管理向所屬部會提供建議，負責工業財產權業務，並公布官方諮詢聯絡管道。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": [
+      {
+        "name": "智慧財產局（河內）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-vn-immigration": {
+    "responsibilities": "該局公布外國人的移民及簽證服務。其入口網站引導申請人至現行的eVisa網域辦理申請及查詢結果。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "越南eVisa電子簽證入口網站",
+        "description": "電子入境簽證申請及結果查詢的官方連結。此項目並不構成工作簽證或工作許可服務。"
+      }
+    ],
+    "offices": [
+      {
+        "name": "越南移民局（河內）",
+        "hours": null
+      }
+    ]
+  },
+  "agy-vn-home-affairs": {
+    "responsibilities": "該部營運國家就業交流平台（National Employment Exchange）。此平台連結勞工、企業、就業服務機構及政府機關。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  },
+  "agy-vn-food-administration": {
+    "responsibilities": "該局負責衛生部轄下的食品安全程序，為特定食品、廣告及食品安全證明提供線上申請途徑。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [
+      {
+        "name": "衛生部食品安全線上程序",
+        "description": "衛生部所說明的食品安全程序的官方連結。"
+      }
+    ],
+    "offices": []
+  },
+  "agy-vn-customs": {
+    "responsibilities": "該局管理國家海關組織。其公布的架構包含海關監管、關稅業務、風險管理及通關後稽核。",
+    "whenToContact": null,
+    "scope": null,
+    "services": [],
+    "offices": []
+  }
+}
