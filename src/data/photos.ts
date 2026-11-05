@@ -3,20 +3,21 @@ import type { Language } from '../translations';
 /**
  * Photography registry.
  *
- * STATUS: every entry below is a TEMPORARY asset. No approved chamber photographs have been supplied.
- * The temporary images were generated on 2026-11-04 as documentary-style scenes of regional places and
- * industry; they show no identifiable people and depict no chamber event. Each is flagged
- * `temporary: true`, which renders a visible "Temporary image" badge and a caption saying so.
+ * STATUS: no approved chamber photographs have been supplied yet. Three entries (home-lead, reception,
+ * singapore) are stock photographs chosen by the chamber (Unsplash). The rest are generated documentary-style
+ * scenes of regional places and industry with no identifiable people. None depicts a chamber event, and no
+ * caption may say otherwise. `placeholder: true` marks an image that should still be replaced; it renders
+ * nothing on the page.
  *
  * TO REPLACE AN IMAGE
  *   1. Put the approved file in /public/photos/ (JPEG or WebP, 1600px on the long side; a 800px copy
  *      for `srcSmall` keeps phone downloads small).
  *   2. Change `src` (and `srcSmall`) to '/photos/<file>', set width/height to the file's pixel size,
  *      write alt text and a caption that says what, where and when, add the photographer credit,
- *      and set `temporary: false`.
+ *      and set `placeholder: false`.
  *   3. Nothing else changes: every page reads from this file.
  *
- * NEVER describe a temporary image as a chamber event, or imply that pictured people are members.
+ * NEVER describe a stock or generated image as a chamber event, or imply that pictured people are members.
  */
 export type PhotoSlot =
   | 'home-lead'
@@ -42,7 +43,7 @@ export interface Photo {
   alt: Record<Language, string>;
   caption: Record<Language, string>;
   credit: string;
-  temporary: boolean;
+  placeholder: boolean;
 }
 
 const CDN = 'https://d8j0ntlcm91z4.cloudfront.net/user_3Kcig8MTgncU7AXxhtgFJTcZLe4/';
@@ -53,17 +54,29 @@ const tmp = (file: string, width: number, height: number, alt: Record<Language, 
   height,
   alt,
   caption,
-  credit: 'Temporary generated image',
-  temporary: true,
+  credit: 'Illustrative image',
+  placeholder: true,
+});
+
+const UNSPLASH = 'https://images.unsplash.com/';
+const stock = (id: string, w: number, h: number, alt: Record<Language, string>, caption: Record<Language, string>): Photo => ({
+  src: `${UNSPLASH}${id}?auto=format&fit=crop&q=80&w=${w}&h=${h}`,
+  srcSmall: `${UNSPLASH}${id}?auto=format&fit=crop&q=75&w=800&h=${Math.round((800 * h) / w)}`,
+  width: w,
+  height: h,
+  alt,
+  caption,
+  credit: 'Unsplash',
+  placeholder: false,
 });
 
 export const photos: Record<PhotoSlot, Photo> = {
-  'home-lead': tmp(
-    'hf_20261104_084839_3d402f35-8cb8-4baa-b0dd-6b739c4bfa7a',
-    1344,
-    752,
-    { en: 'Container port at dusk with gantry cranes and stacked containers', 'zh-tw': '黃昏時分的貨櫃港，橋式起重機與堆疊的貨櫃' },
-    { en: 'A container port of the kind that links Taiwan with Southeast Asian supply chains.', 'zh-tw': '連結台灣與東南亞供應鏈的貨櫃港。' },
+  'home-lead': stock(
+    'photo-1497366216548-37526070297c',
+    2000,
+    1125,
+    { en: 'Modern office interior with meeting tables and large windows', 'zh-tw': '現代辦公空間，會議桌與大片窗戶' },
+    { en: 'Where the work gets done: introductions, briefings and follow-ups between Taiwan and ASEAN.', 'zh-tw': '工作實際發生的地方：台灣與東協之間的引介、簡報與後續追蹤。' },
   ),
   taipei: tmp(
     'hf_20261104_084838_96050c6a-601f-407c-a111-26ddb7a8c6a6',
@@ -72,12 +85,12 @@ export const photos: Record<PhotoSlot, Photo> = {
     { en: 'Taipei skyline on a clear morning seen from a hillside', 'zh-tw': '晴朗早晨自山坡眺望的台北市景' },
     { en: 'Taipei, where the chamber is based.', 'zh-tw': '台北，商會所在地。' },
   ),
-  singapore: tmp(
-    'hf_20261104_084931_941e996c-e363-4c4f-9b35-5c4faadf865b',
-    1024,
-    688,
-    { en: 'Glass office towers of a financial district beside the water', 'zh-tw': '水岸旁金融區的玻璃帷幕辦公大樓' },
-    { en: 'Singapore’s financial district, a common seat for regional holding companies and arbitration.', 'zh-tw': '新加坡金融區，區域控股公司與仲裁的常見所在地。' },
+  singapore: stock(
+    'photo-1486406146926-c627a92ad1ab',
+    1200,
+    800,
+    { en: 'Glass office tower seen from below against the sky', 'zh-tw': '自下方仰望的玻璃帷幕辦公大樓' },
+    { en: 'Corporate offices in a regional financial centre.', 'zh-tw': '區域金融中心的企業辦公大樓。' },
   ),
   'ho-chi-minh': tmp(
     'hf_20261104_084837_e30d6b67-70cf-4b58-a6e1-2ef5d0d660d5',
@@ -121,12 +134,12 @@ export const photos: Record<PhotoSlot, Photo> = {
     { en: 'Trade exhibition hall seen from above with rows of booths and aisles', 'zh-tw': '自上方俯瞰的展覽館，成排的攤位與走道' },
     { en: 'A trade exhibition hall. Chamber delegations visit regional fairs as part of trade missions.', 'zh-tw': '展覽館。商會代表團在考察行程中參觀區域展會。' },
   ),
-  reception: tmp(
-    'hf_20261104_084931_c43b03ea-1ed0-433e-a131-c1cc098152b6',
-    1024,
-    688,
-    { en: 'Hotel function room with small groups of people seen from behind', 'zh-tw': '飯店宴會廳，背對鏡頭的小群人士' },
-    { en: 'A business reception. This is not a chamber event and the people shown are not members.', 'zh-tw': '商務酒會。此非商會活動，圖中人物亦非會員。' },
+  reception: stock(
+    'photo-1542744173-8e7e53415bb0',
+    1200,
+    800,
+    { en: 'Business meeting around a table with laptops and notes', 'zh-tw': '圍桌進行的商務會議，桌上有筆電與筆記' },
+    { en: 'A working meeting between business counterparts.', 'zh-tw': '商務對口之間的工作會議。' },
   ),
   'port-vertical': tmp(
     'hf_20261104_084838_fda7ea5f-f3a1-472a-a93d-68a723457a18',

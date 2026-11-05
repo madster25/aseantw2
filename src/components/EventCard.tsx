@@ -20,7 +20,6 @@ export const EventMeta = ({ event, lang, className = '' }: { event: ChamberEvent
 
 const Thumb = ({ event, lang, ratio }: { event: ChamberEvent; lang: Language; ratio: string }) => {
   const photo = event.photo ? photos[event.photo] : undefined;
-  const t = translations[lang].a11y;
   if (!photo) {
     // No image: a typographic block with the date so listings stay visually consistent without faking a photo.
     const [, m, d] = event.date.split('-');
@@ -46,11 +45,6 @@ const Thumb = ({ event, lang, ratio }: { event: ChamberEvent; lang: Language; ra
         decoding="async"
         className="h-full w-full object-cover"
       />
-      {photo.temporary && (
-        <span className="absolute top-2 left-2 bg-ink/85 px-2 py-1 text-[0.72rem] font-semibold tracking-wide text-white uppercase">
-          {t.temporaryImage}
-        </span>
-      )}
     </div>
   );
 };

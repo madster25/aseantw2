@@ -25,8 +25,6 @@ const en = {
     backToTop: 'Back to top',
     breadcrumb: 'Breadcrumb',
     photoCredit: 'Photo',
-    temporaryImage: 'Temporary image',
-    temporaryNote: 'Temporary image shown until approved chamber photography is supplied.',
   },
   org: {
     name: 'ASEAN Taiwan Chamber of Commerce',
@@ -533,8 +531,6 @@ const zhTW: Translations = {
     backToTop: '回到頁首',
     breadcrumb: '導覽路徑',
     photoCredit: '攝影',
-    temporaryImage: '暫用圖片',
-    temporaryNote: '在商會提供核准照片前的暫用圖片。',
   },
   org: {
     name: '東協台灣商會',

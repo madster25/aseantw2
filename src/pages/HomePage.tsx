@@ -33,11 +33,6 @@ export const HomePage = () => {
           className="absolute inset-0 -z-10 h-full w-full object-cover"
         />
         <div aria-hidden="true" className="absolute inset-0 -z-10 bg-gradient-to-t from-ink/85 via-ink/35 to-ink/20" />
-        {lead.temporary && (
-          <span className="absolute top-[calc(var(--header-h)+0.75rem)] left-5 bg-ink/70 px-2 py-1 text-[0.68rem] font-semibold tracking-[0.12em] text-white uppercase backdrop-blur-sm sm:left-10 xl:left-16">
-            {t.a11y.temporaryImage}
-          </span>
-        )}
         <div className="container-page flex min-h-[88svh] flex-col justify-end pt-(--header-h) pb-10 md:pb-16">
           <p className="label !text-white/80" data-reveal>{t.hero.kicker}</p>
           <h1 id="hero-title" className="display mt-4 max-w-[16ch] text-white" data-reveal data-reveal-delay="1">
@@ -56,7 +51,6 @@ export const HomePage = () => {
           </div>
           <p className="mt-8 border-t border-white/20 pt-4 text-[0.8rem] text-white/60">
             {lead.caption[lang]}
-            {lead.temporary && <> {t.a11y.temporaryNote}</>}
             <span className="ml-2">{t.a11y.photoCredit}: {lead.credit}</span>
           </p>
         </div>

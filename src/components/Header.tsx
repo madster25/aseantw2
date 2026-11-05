@@ -41,6 +41,7 @@ export const Header = ({ lang }: { lang: Language }) => {
     { id: 'membership', label: t.nav.membership },
     { id: 'events', label: t.nav.events },
     { id: 'opportunities', label: t.nav.opportunities },
+    { id: 'asean', label: t.nav.asean },
     { id: 'contact', label: t.nav.contact },
   ];
 

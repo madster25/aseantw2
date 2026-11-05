@@ -25,8 +25,7 @@ interface FigureProps {
 }
 
 /**
- * A photograph from the registry with its caption and credit. Temporary assets carry a visible badge
- * so nobody mistakes them for chamber photography.
+ * A photograph from the registry with its caption and credit.
  */
 export const Figure = ({ slot, lang, className = '', ratio, priority = false, bare = false, sizes = '100vw', caption = 'below', zoom = false, reveal = false, revealDelay, ratioMobile }: FigureProps) => {
   const photo = photos[slot];
@@ -35,7 +34,6 @@ export const Figure = ({ slot, lang, className = '', ratio, priority = false, ba
   const captionText = (
     <>
       {photo.caption[lang]}
-      {photo.temporary && <span className="opacity-70"> {t.temporaryNote}</span>}
     </>
   );
   return (
@@ -62,11 +60,6 @@ export const Figure = ({ slot, lang, className = '', ratio, priority = false, ba
           decoding={priority ? 'sync' : 'async'}
           className={`block w-full ${ratio ? 'h-full object-cover' : 'h-auto'}`}
         />
-        {photo.temporary && (
-          <span className="absolute top-3 left-3 bg-ink/80 px-2 py-1 text-[0.68rem] font-semibold tracking-[0.12em] text-white uppercase backdrop-blur-sm">
-            {t.temporaryImage}
-          </span>
-        )}
         {!bare && caption === 'overlay' && (
           <figcaption className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-ink/70 to-transparent px-4 pt-10 pb-3 text-[0.8rem] text-white/90 sm:px-6">
             {captionText}
